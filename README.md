@@ -24,6 +24,7 @@
 | [0011-container-with-most-water](https://github.com/HeckerSV01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/HeckerSV01/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/HeckerSV01/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HeckerSV01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
@@ -51,9 +52,14 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HeckerSV01/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/HeckerSV01/LeetCode/tree/master/0050-powx-n) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
