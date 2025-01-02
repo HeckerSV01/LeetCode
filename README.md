@@ -57,6 +57,7 @@
 | [0069-sqrtx](https://github.com/HeckerSV01/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/HeckerSV01/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/HeckerSV01/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
 ## Recursion
 |  |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/HeckerSV01/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
