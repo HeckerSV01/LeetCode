@@ -9,8 +9,12 @@ class Solution {
             return false;
         }
         if((n&(n-1))==0)
+        {
         return true;
+        }
         else
+        {
         return false;
+        }
     }
 }
