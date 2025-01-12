@@ -10,6 +10,7 @@
 | [0231-power-of-two](https://github.com/HeckerSV01/LeetCode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/HeckerSV01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0050-powx-n](https://github.com/HeckerSV01/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/HeckerSV01/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
@@ -86,8 +88,13 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/HeckerSV01/LeetCode/tree/master/0231-power-of-two) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
