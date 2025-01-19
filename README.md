@@ -21,12 +21,14 @@
 | [0088-merge-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HeckerSV01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/HeckerSV01/LeetCode/tree/master/0443-string-compression) |
+| [1894-merge-strings-alternately](https://github.com/HeckerSV01/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/HeckerSV01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/HeckerSV01/LeetCode/tree/master/0443-string-compression) |
+| [1894-merge-strings-alternately](https://github.com/HeckerSV01/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
