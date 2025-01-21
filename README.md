@@ -10,6 +10,7 @@
 | [0231-power-of-two](https://github.com/HeckerSV01/LeetCode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/HeckerSV01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/HeckerSV01/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
@@ -49,6 +50,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HeckerSV01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
+| [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/HeckerSV01/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
@@ -148,4 +150,9 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
+| [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
