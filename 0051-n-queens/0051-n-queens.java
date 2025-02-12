@@ -29,8 +29,9 @@ class Solution {
        if(row==arr.length)
        {
         List<String> list=new ArrayList<>();
-        for(char aux[]:arr)
+        for(int i=0;i<arr.length;i++)
         {
+            char aux[]=arr[i];
             list.add(new String(aux));
         }
         main.add(list);
