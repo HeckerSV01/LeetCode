@@ -54,6 +54,7 @@
 | [0035-search-insert-position](https://github.com/HeckerSV01/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/HeckerSV01/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/HeckerSV01/LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/HeckerSV01/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/HeckerSV01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -206,5 +207,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/HeckerSV01/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
