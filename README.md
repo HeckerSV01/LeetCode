@@ -208,5 +208,6 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/HeckerSV01/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
