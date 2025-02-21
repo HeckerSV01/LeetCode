@@ -204,6 +204,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Backtracking
 |  |
 | ------- |
