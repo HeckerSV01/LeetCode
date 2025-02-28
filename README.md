@@ -158,6 +158,7 @@
 | [2048-build-array-from-permutation](https://github.com/HeckerSV01/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/HeckerSV01/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/HeckerSV01/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
@@ -208,6 +209,7 @@
 | [0206-reverse-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/HeckerSV01/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/HeckerSV01/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Backtracking
 |  |
