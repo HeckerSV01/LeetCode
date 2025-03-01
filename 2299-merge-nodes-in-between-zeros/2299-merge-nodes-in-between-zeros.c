@@ -9,7 +9,7 @@ struct ListNode* mergeNodes(struct ListNode* head) {
     head=head->next;
     struct ListNode* temp1;
     temp1=head;
-    while(temp1)
+    while(temp1!=NULL)
     {
       struct ListNode* temp2;
       temp2=temp1;
