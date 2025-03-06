@@ -28,6 +28,7 @@
 | [0011-container-with-most-water](https://github.com/HeckerSV01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/HeckerSV01/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/HeckerSV01/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/HeckerSV01/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HeckerSV01/LeetCode/tree/master/0125-valid-palindrome) |
@@ -216,6 +217,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/HeckerSV01/LeetCode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0328-odd-even-linked-list) |
