@@ -33,6 +33,7 @@
 | [0088-merge-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HeckerSV01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/HeckerSV01/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/HeckerSV01/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/HeckerSV01/LeetCode/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/HeckerSV01/LeetCode/tree/master/0443-string-compression) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/HeckerSV01/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/HeckerSV01/LeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 ## Bit Manipulation
@@ -179,6 +181,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/HeckerSV01/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/HeckerSV01/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -188,6 +191,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/HeckerSV01/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -222,6 +226,7 @@
 | [0002-add-two-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/HeckerSV01/LeetCode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/HeckerSV01/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/HeckerSV01/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0328-odd-even-linked-list) |
