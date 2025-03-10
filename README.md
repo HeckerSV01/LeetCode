@@ -60,6 +60,7 @@
 | [0011-container-with-most-water](https://github.com/HeckerSV01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/HeckerSV01/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/HeckerSV01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/HeckerSV01/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/HeckerSV01/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/HeckerSV01/LeetCode/tree/master/0051-n-queens) |
@@ -135,6 +136,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/HeckerSV01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/HeckerSV01/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -209,6 +211,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/HeckerSV01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0782-jewels-and-stones](https://github.com/HeckerSV01/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Number Theory
