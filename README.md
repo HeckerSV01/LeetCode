@@ -39,6 +39,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/HeckerSV01/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -239,6 +240,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/HeckerSV01/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/HeckerSV01/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/HeckerSV01/LeetCode/tree/master/2411-spiral-matrix-iv) |
