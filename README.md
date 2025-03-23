@@ -81,6 +81,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HeckerSV01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/HeckerSV01/LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -106,12 +107,14 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HeckerSV01/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/HeckerSV01/LeetCode/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HeckerSV01/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -226,6 +229,7 @@
 | [0036-valid-sudoku](https://github.com/HeckerSV01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/HeckerSV01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/HeckerSV01/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Number Theory
