@@ -258,6 +258,7 @@
 | [0002-add-two-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/HeckerSV01/LeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/HeckerSV01/LeetCode/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/HeckerSV01/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/HeckerSV01/LeetCode/tree/master/0148-sort-list) |
