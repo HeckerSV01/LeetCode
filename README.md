@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HeckerSV01/LeetCode/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HeckerSV01/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/HeckerSV01/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/HeckerSV01/LeetCode/tree/master/0061-rotate-list) |
@@ -258,6 +259,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HeckerSV01/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/HeckerSV01/LeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/HeckerSV01/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0092-reverse-linked-list-ii) |
