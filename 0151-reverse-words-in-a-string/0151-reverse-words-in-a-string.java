@@ -10,24 +10,24 @@ class Solution {
             }
             else
             {
-                String str="";
+                StringBuilder sb=new StringBuilder();
                 while(i<s.length()&&s.charAt(i)!=' ')
                 {
-                    str=str+s.charAt(i);
+                    sb.append(s.charAt(i));
                     i++;
                 }
-                st.push(str);
+                st.push(sb.toString());
             }
         }
-        String ans="";
+        StringBuilder ans=new StringBuilder();
         while(!st.isEmpty())
         {
-            ans=ans+st.pop();
+            ans.append(st.pop());
             if(!st.isEmpty())
             {
-                ans=ans+" ";
+                ans.append(" ");
             }
         }
-        return ans;
+        return ans.toString();
     }
 }
