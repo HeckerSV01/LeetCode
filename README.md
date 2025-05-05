@@ -14,6 +14,7 @@
 | [0367-valid-perfect-square](https://github.com/HeckerSV01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2050-count-good-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/HeckerSV01/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/HeckerSV01/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/HeckerSV01/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -169,6 +170,7 @@
 | [0206-reverse-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/HeckerSV01/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
