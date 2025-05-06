@@ -265,6 +265,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/HeckerSV01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/HeckerSV01/LeetCode/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/HeckerSV01/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/HeckerSV01/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -290,6 +291,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/HeckerSV01/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/HeckerSV01/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/HeckerSV01/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/HeckerSV01/LeetCode/tree/master/0148-sort-list) |
