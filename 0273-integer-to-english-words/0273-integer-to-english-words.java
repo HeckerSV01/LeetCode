@@ -29,7 +29,6 @@ class Solution {
         return res;
     }
     public String numberToWords(int num) {
-        String large[]={"Thousand","Million","Billion"};
         if(num==0)
         {
             return "Zero";
