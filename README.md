@@ -99,6 +99,7 @@
 | [0189-rotate-array](https://github.com/HeckerSV01/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/HeckerSV01/LeetCode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/HeckerSV01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -240,6 +241,7 @@
 | [0088-merge-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/HeckerSV01/LeetCode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/HeckerSV01/LeetCode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -265,6 +267,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/HeckerSV01/LeetCode/tree/master/0274-h-index) |
 | [0299-bulls-and-cows](https://github.com/HeckerSV01/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
