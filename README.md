@@ -55,6 +55,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HeckerSV01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/HeckerSV01/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/HeckerSV01/LeetCode/tree/master/0049-group-anagrams) |
@@ -287,6 +288,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HeckerSV01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/HeckerSV01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/HeckerSV01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/HeckerSV01/LeetCode/tree/master/0049-group-anagrams) |
@@ -366,4 +368,8 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HeckerSV01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
