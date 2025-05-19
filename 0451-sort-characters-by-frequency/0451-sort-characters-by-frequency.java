@@ -19,11 +19,11 @@ class Solution {
         for (Map.Entry<Character, Integer> aa : list) {
             temp.put(aa.getKey(), aa.getValue());
         }
-         String res="";
+         StringBuilder res=new StringBuilder();
         for(Character key:temp.keySet())
         {
-            res=res+String.valueOf(key).repeat(temp.get(key));
+            res.append(String.valueOf(key).repeat(temp.get(key)));
         }
-        return res;
+        return res.toString();
     }
 }
