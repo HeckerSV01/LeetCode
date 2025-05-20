@@ -37,10 +37,9 @@ class Solution {
         for(int i=0;i<words.length;i++)
         {
             String rev=new StringBuilder(words[i]).reverse().toString();
-            Integer idx=map.get(rev);
-            if(idx!=null&&idx!=i)
+            if(map.get(rev)!=null&&map.get(rev)!=i)
             {
-                res.add(Arrays.asList(i,idx));
+                res.add(Arrays.asList(i,map.get(rev)));
             }
         }
         for(int i=0;i<words.length;i++)
@@ -53,19 +52,17 @@ class Solution {
                 if(palin(left))
                 {
                     String revright=new StringBuilder(right).reverse().toString();
-                    Integer idx=map.get(revright);
-                    if(idx!=null&&idx!=i)
+                    if(map.get(revright)!=null&&map.get(revright)!=i)
                     {
-                        res.add(Arrays.asList(idx,i));
+                        res.add(Arrays.asList(map.get(revright),i));
                     }
                 }
                 if(palin(right))
                 {
                     String revleft=new StringBuilder(left).reverse().toString();
-                    Integer idx=map.get(revleft);
-                    if(idx!=null&&idx!=i)
+                    if(map.get(revleft)!=null&&map.get(revleft)!=i)
                     {
-                        res.add(Arrays.asList(i,idx));
+                        res.add(Arrays.asList(i,map.get(revleft)));
                     }
                 }
             }
