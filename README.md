@@ -64,6 +64,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/HeckerSV01/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0299-bulls-and-cows](https://github.com/HeckerSV01/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/HeckerSV01/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/HeckerSV01/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -107,6 +108,7 @@
 | [0274-h-index](https://github.com/HeckerSV01/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/HeckerSV01/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0336-palindrome-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
@@ -296,6 +298,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/HeckerSV01/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0451-sort-characters-by-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/HeckerSV01/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -372,4 +375,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HeckerSV01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
