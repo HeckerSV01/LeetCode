@@ -106,6 +106,7 @@
 | [0162-find-peak-element](https://github.com/HeckerSV01/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/HeckerSV01/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/HeckerSV01/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/HeckerSV01/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0275-h-index-ii) |
@@ -324,6 +325,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/HeckerSV01/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HeckerSV01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Linked List
 |  |
