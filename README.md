@@ -119,6 +119,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/HeckerSV01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HeckerSV01/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0413-arithmetic-slices](https://github.com/HeckerSV01/LeetCode/tree/master/0413-arithmetic-slices) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
@@ -325,6 +326,7 @@
 | [0347-top-k-frequent-elements](https://github.com/HeckerSV01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HeckerSV01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HeckerSV01/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/HeckerSV01/LeetCode/tree/master/0782-jewels-and-stones) |
