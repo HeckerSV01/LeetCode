@@ -18,6 +18,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HeckerSV01/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/HeckerSV01/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/HeckerSV01/LeetCode/tree/master/0398-random-pick-index) |
 | [0537-complex-number-multiplication](https://github.com/HeckerSV01/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -334,6 +335,7 @@
 | [0347-top-k-frequent-elements](https://github.com/HeckerSV01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HeckerSV01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HeckerSV01/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0398-random-pick-index](https://github.com/HeckerSV01/LeetCode/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -437,10 +439,12 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HeckerSV01/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/HeckerSV01/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/HeckerSV01/LeetCode/tree/master/0398-random-pick-index) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/HeckerSV01/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/HeckerSV01/LeetCode/tree/master/0398-random-pick-index) |
 ## Data Stream
 |  |
 | ------- |
