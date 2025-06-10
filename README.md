@@ -130,6 +130,7 @@
 | [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
+| [0859-design-circular-deque](https://github.com/HeckerSV01/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/HeckerSV01/LeetCode/tree/master/0860-design-circular-queue) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -377,6 +378,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/HeckerSV01/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/HeckerSV01/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/HeckerSV01/LeetCode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -404,6 +406,7 @@
 | [0384-shuffle-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HeckerSV01/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0838-design-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/HeckerSV01/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/HeckerSV01/LeetCode/tree/master/0860-design-circular-queue) |
 ## Tree
 |  |
@@ -471,5 +474,6 @@
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/HeckerSV01/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/HeckerSV01/LeetCode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
