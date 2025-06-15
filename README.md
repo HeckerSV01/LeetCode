@@ -155,6 +155,7 @@
 | [0053-maximum-subarray](https://github.com/HeckerSV01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HeckerSV01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0413-arithmetic-slices](https://github.com/HeckerSV01/LeetCode/tree/master/0413-arithmetic-slices) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
@@ -428,6 +429,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -437,6 +439,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -457,6 +460,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Sliding Window
