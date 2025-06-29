@@ -444,6 +444,7 @@
 | [0764-n-ary-tree-level-order-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -458,6 +459,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/HeckerSV01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0975-range-sum-of-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -489,6 +491,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/HeckerSV01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -551,5 +554,6 @@
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
