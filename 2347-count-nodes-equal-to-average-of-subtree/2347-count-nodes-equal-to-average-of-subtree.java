@@ -15,51 +15,24 @@
  */
 class Solution {
     int count=0;
-    public int nodes(TreeNode root)
+    public int[] recursion(TreeNode root)
     {
         if(root==null)
         {
-            return 0;
+            return new int[]{0,0};
         }
-        int lc=nodes(root.left);
-        int rc=nodes(root.right);
-        return lc+rc+1;
-    }
-    public int sum(TreeNode root)
-    {
-        if(root==null)
-        {
-            return 0;
-        }
-        int lsum=sum(root.left);
-        int rsum=sum(root.right);
-        return lsum+rsum+root.val;
-    }
-    public boolean check(TreeNode root)
-    {
-        int s=sum(root);
-        int n=nodes(root);
-        if(s/n==root.val)
-        {
-            return true;
-        }
-        return false;
-    }
-    public void traverse(TreeNode root)
-    {
-        if(root==null)
-        {
-            return;
-        }
-        if(check(root))
+        int l[]=recursion(root.left);
+        int r[]=recursion(root.right);
+        int sum=l[0]+r[0]+root.val;
+        int nodes=l[1]+r[1]+1;
+        if(sum/nodes==root.val)
         {
             count++;
         }
-        traverse(root.left);
-        traverse(root.right);
+        return new int[]{sum,nodes};
     }
     public int averageOfSubtree(TreeNode root) {
-        traverse(root);
+        recursion(root);
         return count;
     }
 }
