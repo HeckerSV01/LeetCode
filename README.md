@@ -132,6 +132,7 @@
 | [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/HeckerSV01/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/HeckerSV01/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/HeckerSV01/LeetCode/tree/master/0860-design-circular-queue) |
@@ -173,6 +174,7 @@
 | [0155-min-stack](https://github.com/HeckerSV01/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0931-maximum-frequency-stack](https://github.com/HeckerSV01/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -185,6 +187,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/HeckerSV01/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## String Matching
@@ -254,6 +257,7 @@
 | [0148-sort-list](https://github.com/HeckerSV01/LeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HeckerSV01/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 ## Bit Manipulation
 |  |
@@ -441,6 +445,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/HeckerSV01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -497,6 +502,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/HeckerSV01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0975-range-sum-of-bst) |
