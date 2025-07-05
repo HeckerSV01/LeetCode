@@ -8,7 +8,7 @@ class Solution {
         }
         PriorityQueue<String> pq=new PriorityQueue<>(new Comparator<String>() 
         {
-            public int compare(String a, String b) 
+            public int compare(String a,String b) 
             { 
                 if(map.get(a).equals(map.get(b))) 
                 {
@@ -16,7 +16,7 @@ class Solution {
                 } 
                 else 
                 {
-                    return map.get(b) - map.get(a);
+                    return map.get(b)-map.get(a);
                 } 
             }
         });
