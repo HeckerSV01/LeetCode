@@ -141,6 +141,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HeckerSV01/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/HeckerSV01/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -347,6 +348,7 @@
 | [0347-top-k-frequent-elements](https://github.com/HeckerSV01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -377,6 +379,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HeckerSV01/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HeckerSV01/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
