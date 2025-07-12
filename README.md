@@ -117,6 +117,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HeckerSV01/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HeckerSV01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0137-single-number-ii) |
@@ -276,6 +277,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/HeckerSV01/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/HeckerSV01/LeetCode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/HeckerSV01/LeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -490,6 +492,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0112-path-sum) |
@@ -574,6 +577,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0112-path-sum) |
@@ -663,6 +667,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
