@@ -515,6 +515,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/HeckerSV01/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HeckerSV01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -553,6 +554,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HeckerSV01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -611,6 +613,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/HeckerSV01/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HeckerSV01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -697,6 +700,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/HeckerSV01/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0975-range-sum-of-bst) |
