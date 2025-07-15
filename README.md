@@ -93,6 +93,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [3379-score-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/HeckerSV01/LeetCode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/HeckerSV01/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
