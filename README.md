@@ -529,6 +529,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/HeckerSV01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/HeckerSV01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0772-construct-quad-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0772-construct-quad-tree) |
@@ -572,6 +573,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/HeckerSV01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/HeckerSV01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -600,6 +602,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/HeckerSV01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/HeckerSV01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -637,6 +640,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/HeckerSV01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/HeckerSV01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
