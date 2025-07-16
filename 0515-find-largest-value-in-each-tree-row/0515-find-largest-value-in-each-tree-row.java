@@ -14,9 +14,8 @@
  * }
  */
 class Solution {
-    public List<List<Integer>> bfs(TreeNode root)
-    {
-        List<List<Integer>> list=new ArrayList<>();
+    public List<Integer> largestValues(TreeNode root) {
+        List<Integer> list=new ArrayList<>();
         if(root==null)
         {
             return list;
@@ -25,12 +24,12 @@ class Solution {
         q.add(root);
         while(!q.isEmpty())
         {
-            List<Integer> l=new ArrayList<>();
             int size=q.size();
+            int max=Integer.MIN_VALUE;
             for(int i=0;i<size;i++)
             {
                 TreeNode n=q.remove();
-                l.add(n.val);
+                max=Math.max(max,n.val);
                 if(n.left!=null)
                 {
                     q.add(n.left);
@@ -40,26 +39,8 @@ class Solution {
                     q.add(n.right);
                 }
             }
-            list.add(l);
+            list.add(max);
         }
         return list;
-    }
-    public List<Integer> largestValues(TreeNode root) {
-        List<List<Integer>> list=bfs(root);
-        List<Integer> res=new ArrayList<>();
-        for(int i=0;i<list.size();i++)
-        {
-            List<Integer> l=list.get(i);
-            int max=Integer.MIN_VALUE;
-            for(int j=0;j<l.size();j++)
-            {
-                if(l.get(j)>max)
-                {
-                    max=l.get(j);
-                }
-            }
-            res.add(max);
-        }
-        return res;
     }
 }
