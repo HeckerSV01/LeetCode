@@ -8,32 +8,23 @@ class Employee {
 */
 
 class Solution {
+    HashMap<Integer,Employee> map=new HashMap<>();
     int res=0;
-    public void recur(List<Employee> list,Employee e)
+    public void recur(int id)
     {
-        if(e==null)
-        {
-            return;
-        }
+        Employee e=map.get(id);
         res=res+e.importance;
         for(int k:e.subordinates)
         {
-            recur(list,get(list,k));
+            recur(k);
         }
-    }
-    public Employee get(List<Employee> employees, int id)
-    {
-        for(Employee e:employees)
-        {
-            if(e.id==id)
-            {
-                return e;
-            }
-        }
-        return null;
     }
     public int getImportance(List<Employee> employees, int id) {
-        recur(employees,get(employees,id));
+        for(Employee e:employees)
+        {
+            map.put(e.id,e);
+        }
+        recur(id);
         return res;
     }
 }
