@@ -32,7 +32,8 @@ class Solution {
         }
         else
         {
-            s=findandremove(findandremove(s,"ba",y),"ab",x);
+            s=findandremove(s,"ba",y);
+            s=findandremove(s,"ab",x);
         }
         return res;
     }
