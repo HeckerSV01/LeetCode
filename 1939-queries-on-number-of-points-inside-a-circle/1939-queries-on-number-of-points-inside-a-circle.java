@@ -7,7 +7,7 @@ class Solution {
             int count=0;
             for(int j[]:points)
             {
-                if(Math.pow(j[0]-i[0],2)+Math.pow(j[1]-i[1],2)<=Math.pow(i[2],2))
+                if((j[0]-i[0])*(j[0]-i[0])+(j[1]-i[1])*(j[1]-i[1])<=i[2]*i[2])
                 {
                     count++;
                 }
