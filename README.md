@@ -184,6 +184,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HeckerSV01/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HeckerSV01/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HeckerSV01/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/HeckerSV01/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
