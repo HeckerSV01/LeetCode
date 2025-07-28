@@ -174,6 +174,7 @@
 | [1572-subrectangle-queries](https://github.com/HeckerSV01/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1580-shuffle-the-array](https://github.com/HeckerSV01/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1752-arithmetic-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1791-richest-customer-wealth](https://github.com/HeckerSV01/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/HeckerSV01/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HeckerSV01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -378,6 +379,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HeckerSV01/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1752-arithmetic-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -460,6 +462,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HeckerSV01/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1752-arithmetic-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/HeckerSV01/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HeckerSV01/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
