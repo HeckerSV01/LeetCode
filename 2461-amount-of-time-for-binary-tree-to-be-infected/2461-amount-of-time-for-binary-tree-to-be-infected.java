@@ -46,7 +46,7 @@ class Solution {
         HashMap<TreeNode,Boolean> visited=new HashMap<>();
         q.add(st);
         visited.put(st,true);
-        int dist=0;
+        int dist=-1;
         while(!q.isEmpty())
         {
             int size=q.size();
@@ -71,6 +71,6 @@ class Solution {
                 }
             }
         }
-        return dist-1;
+        return dist;
     }
 }
