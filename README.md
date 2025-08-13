@@ -13,6 +13,7 @@
 | [0223-rectangle-area](https://github.com/HeckerSV01/LeetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/HeckerSV01/LeetCode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/HeckerSV01/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/HeckerSV01/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/HeckerSV01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HeckerSV01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HeckerSV01/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -319,6 +320,7 @@
 | [0206-reverse-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/HeckerSV01/LeetCode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/HeckerSV01/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/HeckerSV01/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HeckerSV01/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/2050-count-good-numbers) |
