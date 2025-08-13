@@ -227,6 +227,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HeckerSV01/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -354,6 +355,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HeckerSV01/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2411-spiral-matrix-iv](https://github.com/HeckerSV01/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Interactive
 |  |
 | ------- |
@@ -743,6 +745,7 @@
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/HeckerSV01/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HeckerSV01/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -783,6 +786,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HeckerSV01/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -955,6 +959,7 @@
 | [0547-number-of-provinces](https://github.com/HeckerSV01/LeetCode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/HeckerSV01/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/HeckerSV01/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Graph
 |  |
 | ------- |
