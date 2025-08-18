@@ -180,6 +180,7 @@
 | [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/HeckerSV01/LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/HeckerSV01/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/HeckerSV01/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HeckerSV01/LeetCode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
@@ -349,6 +350,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/HeckerSV01/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/HeckerSV01/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HeckerSV01/LeetCode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/HeckerSV01/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -728,6 +730,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0690-employee-importance](https://github.com/HeckerSV01/LeetCode/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/HeckerSV01/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HeckerSV01/LeetCode/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -779,6 +782,7 @@
 | [0655-print-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/HeckerSV01/LeetCode/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/HeckerSV01/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HeckerSV01/LeetCode/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0801-is-graph-bipartite](https://github.com/HeckerSV01/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -965,6 +969,7 @@
 | [0130-surrounded-regions](https://github.com/HeckerSV01/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HeckerSV01/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/HeckerSV01/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/HeckerSV01/LeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/HeckerSV01/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/HeckerSV01/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/HeckerSV01/LeetCode/tree/master/1380-number-of-closed-islands) |
