@@ -34,6 +34,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HeckerSV01/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/HeckerSV01/LeetCode/tree/master/2383-add-two-integers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/HeckerSV01/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2812-find-the-maximum-achievable-number](https://github.com/HeckerSV01/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -224,6 +225,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/HeckerSV01/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
