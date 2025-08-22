@@ -234,6 +234,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/HeckerSV01/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HeckerSV01/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HeckerSV01/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -373,6 +374,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HeckerSV01/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2411-spiral-matrix-iv](https://github.com/HeckerSV01/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HeckerSV01/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Interactive
 |  |
