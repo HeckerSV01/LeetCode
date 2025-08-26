@@ -241,6 +241,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/HeckerSV01/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HeckerSV01/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HeckerSV01/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HeckerSV01/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
