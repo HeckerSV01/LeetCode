@@ -35,6 +35,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/HeckerSV01/LeetCode/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/HeckerSV01/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/HeckerSV01/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2812-find-the-maximum-achievable-number](https://github.com/HeckerSV01/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -80,6 +81,7 @@
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HeckerSV01/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HeckerSV01/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2481-strictly-palindromic-number](https://github.com/HeckerSV01/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
@@ -1075,4 +1077,8 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/HeckerSV01/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HeckerSV01/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HeckerSV01/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/HeckerSV01/LeetCode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
