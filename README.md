@@ -32,6 +32,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HeckerSV01/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/2050-count-good-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HeckerSV01/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/HeckerSV01/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/HeckerSV01/LeetCode/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -478,6 +479,7 @@
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HeckerSV01/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1752-arithmetic-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/HeckerSV01/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
