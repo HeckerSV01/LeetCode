@@ -19,7 +19,7 @@ class disjointSet{
         parent.set(node,ultparent);
         return parent.get(node);
     }
-    public void unionbyrank(int u,int v)
+    public void unionbysize(int u,int v)
     {
         int ultofu=find(u);
         int ultofv=find(v);
@@ -51,7 +51,7 @@ class Solution {
             }
             else
             {
-                ds.unionbyrank(connections[i][0],connections[i][1]);
+                ds.unionbysize(connections[i][0],connections[i][1]);
             }
         }
         int compo=0;
