@@ -227,6 +227,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HeckerSV01/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/HeckerSV01/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/HeckerSV01/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -393,6 +394,7 @@
 | [1572-subrectangle-queries](https://github.com/HeckerSV01/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/HeckerSV01/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HeckerSV01/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2411-spiral-matrix-iv](https://github.com/HeckerSV01/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -817,6 +819,7 @@
 | [1450-delete-leaves-with-a-given-value](https://github.com/HeckerSV01/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1558-course-schedule-iv](https://github.com/HeckerSV01/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/HeckerSV01/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HeckerSV01/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -876,6 +879,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HeckerSV01/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/HeckerSV01/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HeckerSV01/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -1056,6 +1060,7 @@
 | [1380-number-of-closed-islands](https://github.com/HeckerSV01/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HeckerSV01/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Graph
 |  |
