@@ -813,6 +813,7 @@
 | [1380-number-of-closed-islands](https://github.com/HeckerSV01/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HeckerSV01/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/HeckerSV01/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/HeckerSV01/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1558-course-schedule-iv](https://github.com/HeckerSV01/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -872,6 +873,7 @@
 | [1254-deepest-leaves-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1380-number-of-closed-islands](https://github.com/HeckerSV01/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/HeckerSV01/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/HeckerSV01/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HeckerSV01/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1052,6 +1054,7 @@
 | [0801-is-graph-bipartite](https://github.com/HeckerSV01/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/HeckerSV01/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/HeckerSV01/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/HeckerSV01/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Graph
@@ -1065,6 +1068,7 @@
 | [0801-is-graph-bipartite](https://github.com/HeckerSV01/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HeckerSV01/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/HeckerSV01/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/HeckerSV01/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HeckerSV01/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/HeckerSV01/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HeckerSV01/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
