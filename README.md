@@ -198,6 +198,7 @@
 | [0733-flood-fill](https://github.com/HeckerSV01/LeetCode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/HeckerSV01/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/HeckerSV01/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0835-linked-list-components](https://github.com/HeckerSV01/LeetCode/tree/master/0835-linked-list-components) |
 | [0854-making-a-large-island](https://github.com/HeckerSV01/LeetCode/tree/master/0854-making-a-large-island) |
@@ -345,6 +346,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/HeckerSV01/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/HeckerSV01/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Recursion
 |  |
@@ -388,6 +390,7 @@
 | [0695-max-area-of-island](https://github.com/HeckerSV01/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HeckerSV01/LeetCode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0794-swim-in-rising-water](https://github.com/HeckerSV01/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/HeckerSV01/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/HeckerSV01/LeetCode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/HeckerSV01/LeetCode/tree/master/1036-rotting-oranges) |
@@ -501,6 +504,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/HeckerSV01/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/HeckerSV01/LeetCode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/HeckerSV01/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HeckerSV01/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -804,6 +808,7 @@
 | [0744-network-delay-time](https://github.com/HeckerSV01/LeetCode/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/HeckerSV01/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/HeckerSV01/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HeckerSV01/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/HeckerSV01/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -872,6 +877,7 @@
 | [0733-flood-fill](https://github.com/HeckerSV01/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/HeckerSV01/LeetCode/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0794-swim-in-rising-water](https://github.com/HeckerSV01/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/HeckerSV01/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HeckerSV01/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/HeckerSV01/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -1068,6 +1074,7 @@
 | [0547-number-of-provinces](https://github.com/HeckerSV01/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/HeckerSV01/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/HeckerSV01/LeetCode/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/HeckerSV01/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/HeckerSV01/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/HeckerSV01/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HeckerSV01/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
