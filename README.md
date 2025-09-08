@@ -26,6 +26,7 @@
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HeckerSV01/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/HeckerSV01/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/HeckerSV01/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/HeckerSV01/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
