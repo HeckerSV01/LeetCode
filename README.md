@@ -221,6 +221,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HeckerSV01/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HeckerSV01/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/HeckerSV01/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/HeckerSV01/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -404,6 +405,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/HeckerSV01/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/HeckerSV01/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1572-subrectangle-queries](https://github.com/HeckerSV01/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/HeckerSV01/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -516,6 +518,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/HeckerSV01/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -921,6 +924,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HeckerSV01/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/HeckerSV01/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HeckerSV01/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/HeckerSV01/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
@@ -1138,6 +1142,7 @@
 | [1436-get-watched-videos-by-your-friends](https://github.com/HeckerSV01/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/HeckerSV01/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HeckerSV01/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/HeckerSV01/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HeckerSV01/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/HeckerSV01/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -1156,6 +1161,7 @@
 | [0744-network-delay-time](https://github.com/HeckerSV01/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HeckerSV01/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HeckerSV01/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HeckerSV01/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Brainteaser
 |  |
