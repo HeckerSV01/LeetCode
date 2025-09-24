@@ -1205,6 +1205,7 @@
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HeckerSV01/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HeckerSV01/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2793-count-the-number-of-complete-components](https://github.com/HeckerSV01/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [3189-find-champion-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
