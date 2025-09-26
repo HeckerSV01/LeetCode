@@ -92,6 +92,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HeckerSV01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/HeckerSV01/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/HeckerSV01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/HeckerSV01/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/HeckerSV01/LeetCode/tree/master/0058-length-of-last-word) |
@@ -278,6 +279,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HeckerSV01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HeckerSV01/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HeckerSV01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/HeckerSV01/LeetCode/tree/master/0118-pascals-triangle) |
@@ -695,6 +697,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HeckerSV01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/HeckerSV01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/HeckerSV01/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0052-n-queens-ii) |
