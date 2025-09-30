@@ -7,11 +7,11 @@ class Solution {
             {
                 list.add(i);
             }
+            if(list.size()==k)
+            {
+                return list.get(k-1);
+            }
         }
-        if(list.size()<k)
-        {
-            return -1;
-        }
-        return list.get(k-1);
+        return -1;
     }
 }
