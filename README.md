@@ -29,6 +29,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HeckerSV01/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/HeckerSV01/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/HeckerSV01/LeetCode/tree/master/1448-maximum-69-number) |
+| [1585-the-kth-factor-of-n](https://github.com/HeckerSV01/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/HeckerSV01/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HeckerSV01/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -649,6 +650,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/HeckerSV01/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/HeckerSV01/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Prefix Sum
