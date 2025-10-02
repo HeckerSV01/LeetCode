@@ -280,6 +280,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HeckerSV01/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HeckerSV01/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HeckerSV01/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HeckerSV01/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -652,6 +653,7 @@
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/HeckerSV01/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/HeckerSV01/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -710,6 +712,7 @@
 | [2411-spiral-matrix-iv](https://github.com/HeckerSV01/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2573-remove-nodes-from-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
 | ------- |
