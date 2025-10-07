@@ -570,6 +570,7 @@
 | [3386-find-edges-in-shortest-paths](https://github.com/HeckerSV01/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3678-design-task-manager](https://github.com/HeckerSV01/LeetCode/tree/master/3678-design-task-manager) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/HeckerSV01/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1289,6 +1290,7 @@
 | [3189-find-champion-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3189-find-champion-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HeckerSV01/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3729-unit-conversion-i](https://github.com/HeckerSV01/LeetCode/tree/master/3729-unit-conversion-i) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/HeckerSV01/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1310,6 +1312,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HeckerSV01/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HeckerSV01/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HeckerSV01/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/HeckerSV01/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Brainteaser
 |  |
 | ------- |
