@@ -568,6 +568,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2023-design-movie-rental-system](https://github.com/HeckerSV01/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2207-sequentially-ordinal-rank-tracker](https://github.com/HeckerSV01/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HeckerSV01/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/HeckerSV01/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/HeckerSV01/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -788,6 +789,7 @@
 | [1767-design-front-middle-back-queue](https://github.com/HeckerSV01/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/HeckerSV01/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2207-sequentially-ordinal-rank-tracker](https://github.com/HeckerSV01/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
 | [2389-design-a-text-editor](https://github.com/HeckerSV01/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HeckerSV01/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/HeckerSV01/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -1159,6 +1161,7 @@
 | [0937-online-stock-span](https://github.com/HeckerSV01/LeetCode/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/HeckerSV01/LeetCode/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/HeckerSV01/LeetCode/tree/master/1767-design-front-middle-back-queue) |
+| [2207-sequentially-ordinal-rank-tracker](https://github.com/HeckerSV01/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
 ## Geometry
 |  |
 | ------- |
@@ -1188,6 +1191,7 @@
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/HeckerSV01/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [2023-design-movie-rental-system](https://github.com/HeckerSV01/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2207-sequentially-ordinal-rank-tracker](https://github.com/HeckerSV01/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HeckerSV01/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/HeckerSV01/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/HeckerSV01/LeetCode/tree/master/2434-design-a-number-container-system) |
