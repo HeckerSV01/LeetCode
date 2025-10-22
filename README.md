@@ -299,6 +299,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/HeckerSV01/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -397,6 +398,7 @@
 | [1023-time-based-key-value-store](https://github.com/HeckerSV01/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeckerSV01/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/HeckerSV01/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Recursion
 |  |
@@ -695,6 +697,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/HeckerSV01/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/HeckerSV01/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -1270,6 +1273,7 @@
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HeckerSV01/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/HeckerSV01/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/HeckerSV01/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Graph
 |  |
@@ -1317,6 +1321,7 @@
 | [3189-find-champion-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3189-find-champion-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HeckerSV01/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3729-unit-conversion-i](https://github.com/HeckerSV01/LeetCode/tree/master/3729-unit-conversion-i) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/HeckerSV01/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/HeckerSV01/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Topological Sort
