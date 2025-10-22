@@ -74,12 +74,13 @@ class Solution {
         while(st<=en)
         {
             int mid=(st+en)/2;
-            if(components(edges,list.get(mid),n)>=k)
+            int comp=components(edges,list.get(mid),n);
+            if(comp>=k)
             {
                 en=mid-1;
                 res=list.get(mid);
             }
-            else if(components(edges,list.get(mid),n)<k)
+            else if(comp<k)
             {
                 st=mid+1;
             }
