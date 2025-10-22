@@ -1,42 +1,64 @@
+class disjointSet{
+    public List<Integer> parent=new ArrayList<>();
+    public List<Integer> size=new ArrayList<>();
+    public disjointSet(int n)
+    {
+        for(int i=0;i<n;i++)
+        {
+            parent.add(i);
+            size.add(1);
+        }
+    }
+    public int find(int node)
+    {
+        if(node==parent.get(node))
+        {
+            return node;
+        }
+        int ultparent=find(parent.get(node));
+        parent.set(node,ultparent);
+        return parent.get(node);
+    }
+    public void unionbysize(int u,int v)
+    {
+        int ultofu=find(u);
+        int ultofv=find(v);
+        if(ultofu==ultofv)
+        {
+            return;
+        }
+        if(size.get(ultofu)<size.get(ultofv))
+        {
+            parent.set(ultofu,ultofv);
+            size.set(ultofv,size.get(ultofv)+size.get(ultofu));
+        }
+        else
+        {
+            parent.set(ultofv,ultofu);
+            size.set(ultofu,size.get(ultofu)+size.get(ultofv));
+        }
+    }
+}
 class Solution {
-    int c=0;
     public int components(int edges[][],int time,int n)
     {
-        ArrayList<ArrayList<Integer>> adj=new ArrayList<>();
-        for(int i=0;i<n;i++)
+        disjointSet ds=new disjointSet(n);
+        for(int e[]:edges)
         {
-            adj.add(new ArrayList<>());
-        }
-        for(int i=0;i<edges.length;i++)
-        {
-            if(edges[i][2]>time)
+            if(e[2]>time)
             {
-                adj.get(edges[i][0]).add(edges[i][1]);
-                adj.get(edges[i][1]).add(edges[i][0]);
+                ds.unionbysize(e[0],e[1]);
             }
         }
-        int vis[]=new int[n];
-        c=0;
-        for(int i=0;i<n;i++)
+        int c=0;
+        for(int i=0;i<ds.parent.size();i++)
         {
-            if(vis[i]==0)
+            if(ds.parent.get(i)==i)
             {
-                dfs(adj,i,vis);
                 c++;
             }
         }
         return c;
-    }
-    public void dfs(ArrayList<ArrayList<Integer>> adj,int i,int vis[])
-    {
-        vis[i]=1;
-        for(int k:adj.get(i))
-        {
-            if(vis[k]==0)
-            {
-                dfs(adj,k,vis);
-            }
-        }
     }
     public int minTime(int n, int[][] edges, int k) {
         List<Integer> list=new ArrayList<>();
