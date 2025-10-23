@@ -287,6 +287,7 @@
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/HeckerSV01/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HeckerSV01/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -497,6 +498,7 @@
 | [0260-single-number-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/HeckerSV01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/HeckerSV01/LeetCode/tree/master/0342-power-of-four) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
@@ -695,6 +697,7 @@
 | [2587-design-memory-allocator](https://github.com/HeckerSV01/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
