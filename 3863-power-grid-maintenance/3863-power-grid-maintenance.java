@@ -1,23 +1,25 @@
 class disjointSet{
-    public List<Integer> parent=new ArrayList<>();
-    public List<Integer> size=new ArrayList<>();
+    public int parent[];
+    public int size[];
     public disjointSet(int n)
     {
+        parent=new int[n];
+        size=new int[n];
         for(int i=0;i<n;i++)
         {
-            parent.add(i);
-            size.add(1);
+            parent[i]=i;
+            size[i]=1;
         }
     }
     public int find(int node)
     {
-        if(node==parent.get(node))
+        if(node==parent[node])
         {
             return node;
         }
-        int ultparent=find(parent.get(node));
-        parent.set(node,ultparent);
-        return parent.get(node);
+        int ultparent=find(parent[node]);
+        parent[node]=ultparent;
+        return parent[node];
     }
     public void unionbysize(int u,int v)
     {
@@ -27,15 +29,15 @@ class disjointSet{
         {
             return;
         }
-        if(size.get(ultofu)<size.get(ultofv))
+        if(size[ultofu]<size[ultofv])
         {
-            parent.set(ultofu,ultofv);
-            size.set(ultofv,size.get(ultofv)+size.get(ultofu));
+            parent[ultofu]=ultofv;
+            size[ultofv]=size[ultofv]+size[ultofu];
         }
         else
         {
-            parent.set(ultofv,ultofu);
-            size.set(ultofu,size.get(ultofu)+size.get(ultofv));
+            parent[ultofv]=ultofu;
+            size[ultofu]=size[ultofu]+size[ultofv];
         }
     }
 }
