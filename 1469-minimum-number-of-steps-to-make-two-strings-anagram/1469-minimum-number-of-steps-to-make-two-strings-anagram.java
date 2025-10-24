@@ -10,8 +10,11 @@ class Solution {
         int sum=0;
         for(int i=0;i<26;i++)
         {
-            sum=sum+Math.abs(freq1[i]-freq2[i]);
+            if(freq2[i]>freq1[i])
+            {
+                sum=sum+freq2[i]-freq1[i];
+            }
         }
-        return sum/2;
+        return sum;
     }
 }
