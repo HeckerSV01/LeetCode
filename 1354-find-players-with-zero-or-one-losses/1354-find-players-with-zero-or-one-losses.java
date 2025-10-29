@@ -1,23 +1,21 @@
 class Solution {
     public List<List<Integer>> findWinners(int[][] matches) {
-        HashSet<Integer> set=new HashSet<>();
         HashMap<Integer,Integer> lose=new HashMap<>();
         for(int k[]:matches)
         {
-            set.add(k[0]);
-            set.add(k[1]);
+            lose.putIfAbsent(k[0],0);
             lose.put(k[1],lose.getOrDefault(k[1],0)+1);
         }
         List<List<Integer>> res=new ArrayList<>();
         List<Integer> temp1=new ArrayList<>();
         List<Integer> temp2=new ArrayList<>();
-        for(int k:set)
+        for(int k:lose.keySet())
         {
-            if(!lose.containsKey(k))
+            if(lose.get(k)==0)
             {
                 temp1.add(k);
             }
-            if(lose.containsKey(k)&&lose.get(k)==1)
+            if(lose.get(k)==1)
             {
                 temp2.add(k);
             }
