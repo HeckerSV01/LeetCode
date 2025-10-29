@@ -55,6 +55,7 @@
 | [3567-convert-date-to-binary](https://github.com/HeckerSV01/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/HeckerSV01/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/HeckerSV01/LeetCode/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
@@ -534,6 +535,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/HeckerSV01/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
 |  |
 | ------- |
