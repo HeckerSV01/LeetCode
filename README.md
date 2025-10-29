@@ -254,6 +254,7 @@
 | [1310-watering-plants](https://github.com/HeckerSV01/LeetCode/tree/master/1310-watering-plants) |
 | [1325-path-with-maximum-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/HeckerSV01/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/HeckerSV01/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1380-number-of-closed-islands](https://github.com/HeckerSV01/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HeckerSV01/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -663,6 +664,7 @@
 | [0829-subdomain-visit-count](https://github.com/HeckerSV01/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/HeckerSV01/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/HeckerSV01/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/HeckerSV01/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -724,6 +726,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HeckerSV01/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/HeckerSV01/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/HeckerSV01/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HeckerSV01/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
