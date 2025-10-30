@@ -95,6 +95,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeckerSV01/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/HeckerSV01/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HeckerSV01/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -309,6 +310,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/HeckerSV01/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HeckerSV01/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2587-design-memory-allocator](https://github.com/HeckerSV01/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -601,6 +603,7 @@
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/HeckerSV01/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeckerSV01/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HeckerSV01/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -763,6 +766,7 @@
 | [2455-node-with-highest-edge-score](https://github.com/HeckerSV01/LeetCode/tree/master/2455-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HeckerSV01/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HeckerSV01/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2587-design-memory-allocator](https://github.com/HeckerSV01/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
