@@ -319,6 +319,7 @@
 | [2587-design-memory-allocator](https://github.com/HeckerSV01/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
@@ -419,6 +420,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
 ## Binary Search
 |  |
@@ -444,6 +446,7 @@
 | [1023-time-based-key-value-store](https://github.com/HeckerSV01/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeckerSV01/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/HeckerSV01/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Recursion
@@ -615,6 +618,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HeckerSV01/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -781,6 +785,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HeckerSV01/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2587-design-memory-allocator](https://github.com/HeckerSV01/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
