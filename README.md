@@ -321,6 +321,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/HeckerSV01/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -504,6 +505,7 @@
 | [2411-spiral-matrix-iv](https://github.com/HeckerSV01/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HeckerSV01/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/HeckerSV01/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -781,6 +783,7 @@
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
