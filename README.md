@@ -122,6 +122,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/HeckerSV01/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/HeckerSV01/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/HeckerSV01/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0648-replace-words](https://github.com/HeckerSV01/LeetCode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/HeckerSV01/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/HeckerSV01/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -227,6 +228,7 @@
 | [0529-minesweeper](https://github.com/HeckerSV01/LeetCode/tree/master/0529-minesweeper) |
 | [0539-minimum-time-difference](https://github.com/HeckerSV01/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0542-01-matrix) |
+| [0648-replace-words](https://github.com/HeckerSV01/LeetCode/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/HeckerSV01/LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/HeckerSV01/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -717,6 +719,7 @@
 | [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HeckerSV01/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0648-replace-words](https://github.com/HeckerSV01/LeetCode/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0676-implement-magic-dictionary](https://github.com/HeckerSV01/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/0677-map-sum-pairs) |
@@ -1245,6 +1248,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0336-palindrome-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/0336-palindrome-pairs) |
+| [0648-replace-words](https://github.com/HeckerSV01/LeetCode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/HeckerSV01/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/HeckerSV01/LeetCode/tree/master/0692-top-k-frequent-words) |
