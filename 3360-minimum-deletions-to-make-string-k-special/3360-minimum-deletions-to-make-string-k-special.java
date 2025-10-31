@@ -11,7 +11,6 @@ class Solution {
         {
             list.add(i);
         }
-        Collections.sort(list);
         for(int i=0;i<list.size();i++)
         {
             int sum=0;
