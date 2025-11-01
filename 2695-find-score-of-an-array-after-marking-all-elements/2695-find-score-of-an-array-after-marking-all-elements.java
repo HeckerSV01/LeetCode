@@ -1,7 +1,6 @@
 class Solution {
     public long findScore(int[] nums) {
         TreeMap<Integer,PriorityQueue<Integer>> map=new TreeMap<>();
-        HashSet<Integer> marked=new HashSet<>();
         for(int i=0;i<nums.length;i++)
         {
             if(!map.containsKey(nums[i]))
@@ -11,24 +10,22 @@ class Solution {
             map.get(nums[i]).add(i);
         }
         long res=0;
-        while(marked.size()<nums.length)
+        boolean[] marked=new boolean[nums.length];
+        for(int val:map.keySet()) 
         {
-            for(int k:map.keySet())
+            for(int idx:map.get(val)) 
             {
-                for(int i:map.get(k))
+                if(!marked[idx]) 
                 {
-                    if(!marked.contains(i))
+                    res=res+val;
+                    marked[idx]=true;
+                    if(idx-1>=0)
                     {
-                        marked.add(i);
-                        res=res+nums[i];
-                        if(i+1<=nums.length-1)
-                        {
-                            marked.add(i+1);
-                        }
-                        if(i-1>=0)
-                        {
-                            marked.add(i-1);
-                        }
+                        marked[idx-1]=true;
+                    }
+                    if(idx+1<nums.length) 
+                    {
+                        marked[idx+1]=true;
                     }
                 }
             }
