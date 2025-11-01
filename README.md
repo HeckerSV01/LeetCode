@@ -765,6 +765,7 @@
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/HeckerSV01/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1722-throne-inheritance](https://github.com/HeckerSV01/LeetCode/tree/master/1722-throne-inheritance) |
 | [1752-arithmetic-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/HeckerSV01/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -910,6 +911,7 @@
 | [1512-design-underground-system](https://github.com/HeckerSV01/LeetCode/tree/master/1512-design-underground-system) |
 | [1572-subrectangle-queries](https://github.com/HeckerSV01/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1582-design-browser-history](https://github.com/HeckerSV01/LeetCode/tree/master/1582-design-browser-history) |
+| [1722-throne-inheritance](https://github.com/HeckerSV01/LeetCode/tree/master/1722-throne-inheritance) |
 | [1767-design-front-middle-back-queue](https://github.com/HeckerSV01/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/HeckerSV01/LeetCode/tree/master/2023-design-movie-rental-system) |
@@ -992,6 +994,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HeckerSV01/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/HeckerSV01/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1722-throne-inheritance](https://github.com/HeckerSV01/LeetCode/tree/master/1722-throne-inheritance) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HeckerSV01/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/HeckerSV01/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/HeckerSV01/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -1084,6 +1087,7 @@
 | [1450-delete-leaves-with-a-given-value](https://github.com/HeckerSV01/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1558-course-schedule-iv](https://github.com/HeckerSV01/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HeckerSV01/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1722-throne-inheritance](https://github.com/HeckerSV01/LeetCode/tree/master/1722-throne-inheritance) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
