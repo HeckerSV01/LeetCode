@@ -278,6 +278,7 @@
 | [1572-subrectangle-queries](https://github.com/HeckerSV01/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1580-shuffle-the-array](https://github.com/HeckerSV01/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/HeckerSV01/LeetCode/tree/master/1582-design-browser-history) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/HeckerSV01/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HeckerSV01/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1752-arithmetic-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1752-arithmetic-subarrays) |
@@ -425,6 +426,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HeckerSV01/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/HeckerSV01/LeetCode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/HeckerSV01/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/HeckerSV01/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -624,6 +626,7 @@
 | [1436-get-watched-videos-by-your-friends](https://github.com/HeckerSV01/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1464-reduce-array-size-to-the-half](https://github.com/HeckerSV01/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/HeckerSV01/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/HeckerSV01/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1752-arithmetic-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/HeckerSV01/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -710,6 +713,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/HeckerSV01/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/HeckerSV01/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HeckerSV01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -782,6 +786,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-design-underground-system](https://github.com/HeckerSV01/LeetCode/tree/master/1512-design-underground-system) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/HeckerSV01/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/HeckerSV01/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1722-throne-inheritance](https://github.com/HeckerSV01/LeetCode/tree/master/1722-throne-inheritance) |
