@@ -335,6 +335,7 @@
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HeckerSV01/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HeckerSV01/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HeckerSV01/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -522,6 +523,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HeckerSV01/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HeckerSV01/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/HeckerSV01/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -719,6 +721,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/HeckerSV01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HeckerSV01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3707-find-the-most-common-response](https://github.com/HeckerSV01/LeetCode/tree/master/3707-find-the-most-common-response) |
 ## Hash Table
@@ -822,6 +825,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HeckerSV01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
