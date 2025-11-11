@@ -22,6 +22,7 @@
 | [0382-linked-list-random-node](https://github.com/HeckerSV01/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/HeckerSV01/LeetCode/tree/master/0398-random-pick-index) |
+| [0447-number-of-boomerangs](https://github.com/HeckerSV01/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0537-complex-number-multiplication](https://github.com/HeckerSV01/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/HeckerSV01/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0915-generate-random-point-in-a-circle](https://github.com/HeckerSV01/LeetCode/tree/master/0915-generate-random-point-in-a-circle) |
@@ -228,6 +229,7 @@
 | [0413-arithmetic-slices](https://github.com/HeckerSV01/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HeckerSV01/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/HeckerSV01/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/HeckerSV01/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -781,6 +783,7 @@
 | [0398-random-pick-index](https://github.com/HeckerSV01/LeetCode/tree/master/0398-random-pick-index) |
 | [0433-minimum-genetic-mutation](https://github.com/HeckerSV01/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/HeckerSV01/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0451-sort-characters-by-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
