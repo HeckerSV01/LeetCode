@@ -255,6 +255,7 @@
 | [0860-design-circular-queue](https://github.com/HeckerSV01/LeetCode/tree/master/0860-design-circular-queue) |
 | [0881-loud-and-rich](https://github.com/HeckerSV01/LeetCode/tree/master/0881-loud-and-rich) |
 | [0926-find-and-replace-pattern](https://github.com/HeckerSV01/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [0947-online-election](https://github.com/HeckerSV01/LeetCode/tree/master/0947-online-election) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 | [0960-minimize-malware-spread](https://github.com/HeckerSV01/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
@@ -477,6 +478,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/HeckerSV01/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0947-online-election](https://github.com/HeckerSV01/LeetCode/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/HeckerSV01/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HeckerSV01/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -809,6 +811,7 @@
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HeckerSV01/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0926-find-and-replace-pattern](https://github.com/HeckerSV01/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0931-maximum-frequency-stack](https://github.com/HeckerSV01/LeetCode/tree/master/0931-maximum-frequency-stack) |
+| [0947-online-election](https://github.com/HeckerSV01/LeetCode/tree/master/0947-online-election) |
 | [0960-minimize-malware-spread](https://github.com/HeckerSV01/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HeckerSV01/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -989,6 +992,7 @@
 | [0860-design-circular-queue](https://github.com/HeckerSV01/LeetCode/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/HeckerSV01/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/HeckerSV01/LeetCode/tree/master/0937-online-stock-span) |
+| [0947-online-election](https://github.com/HeckerSV01/LeetCode/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/HeckerSV01/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1459-apply-discount-every-n-orders](https://github.com/HeckerSV01/LeetCode/tree/master/1459-apply-discount-every-n-orders) |
