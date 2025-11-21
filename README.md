@@ -159,6 +159,7 @@
 | [2429-design-a-food-rating-system](https://github.com/HeckerSV01/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2887-sort-vowels-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3194-find-words-containing-character](https://github.com/HeckerSV01/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HeckerSV01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3379-score-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/HeckerSV01/LeetCode/tree/master/3396-valid-word) |
@@ -353,6 +354,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/HeckerSV01/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HeckerSV01/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
+| [3194-find-words-containing-character](https://github.com/HeckerSV01/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HeckerSV01/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
