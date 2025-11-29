@@ -54,6 +54,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/HeckerSV01/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3336-water-bottles-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HeckerSV01/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/HeckerSV01/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -365,6 +366,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HeckerSV01/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HeckerSV01/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3707-find-the-most-common-response](https://github.com/HeckerSV01/LeetCode/tree/master/3707-find-the-most-common-response) |
