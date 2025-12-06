@@ -326,6 +326,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/HeckerSV01/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/HeckerSV01/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2285-design-bitset](https://github.com/HeckerSV01/LeetCode/tree/master/2285-design-bitset) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/HeckerSV01/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HeckerSV01/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -554,6 +555,7 @@
 | [1791-richest-customer-wealth](https://github.com/HeckerSV01/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HeckerSV01/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/HeckerSV01/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/HeckerSV01/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -715,6 +717,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2023-design-movie-rental-system](https://github.com/HeckerSV01/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/HeckerSV01/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/HeckerSV01/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HeckerSV01/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/HeckerSV01/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/HeckerSV01/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -1289,6 +1292,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HeckerSV01/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/HeckerSV01/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HeckerSV01/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HeckerSV01/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HeckerSV01/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1550,6 +1554,7 @@
 | [1738-maximal-network-rank](https://github.com/HeckerSV01/LeetCode/tree/master/1738-maximal-network-rank) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HeckerSV01/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HeckerSV01/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/HeckerSV01/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HeckerSV01/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/HeckerSV01/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HeckerSV01/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -1586,6 +1591,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HeckerSV01/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HeckerSV01/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/HeckerSV01/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HeckerSV01/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HeckerSV01/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/HeckerSV01/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
