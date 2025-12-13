@@ -121,6 +121,7 @@
 | [0299-bulls-and-cows](https://github.com/HeckerSV01/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/HeckerSV01/LeetCode/tree/master/0344-reverse-string) |
+| [0399-evaluate-division](https://github.com/HeckerSV01/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/HeckerSV01/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/HeckerSV01/LeetCode/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -233,6 +234,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/HeckerSV01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HeckerSV01/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0399-evaluate-division](https://github.com/HeckerSV01/LeetCode/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/HeckerSV01/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HeckerSV01/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -1144,6 +1146,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/HeckerSV01/LeetCode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HeckerSV01/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
@@ -1242,6 +1245,7 @@
 | [0207-course-schedule](https://github.com/HeckerSV01/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/HeckerSV01/LeetCode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HeckerSV01/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/HeckerSV01/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1499,6 +1503,7 @@
 | [0130-surrounded-regions](https://github.com/HeckerSV01/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HeckerSV01/LeetCode/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/HeckerSV01/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0399-evaluate-division](https://github.com/HeckerSV01/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/HeckerSV01/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HeckerSV01/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/HeckerSV01/LeetCode/tree/master/0695-max-area-of-island) |
@@ -1532,6 +1537,7 @@
 | [0133-clone-graph](https://github.com/HeckerSV01/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/HeckerSV01/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/HeckerSV01/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/HeckerSV01/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HeckerSV01/LeetCode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/HeckerSV01/LeetCode/tree/master/0744-network-delay-time) |
@@ -1597,6 +1603,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/HeckerSV01/LeetCode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/HeckerSV01/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HeckerSV01/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1325-path-with-maximum-probability) |
