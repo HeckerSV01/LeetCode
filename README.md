@@ -364,6 +364,7 @@
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2834-relocate-marbles](https://github.com/HeckerSV01/LeetCode/tree/master/2834-relocate-marbles) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/HeckerSV01/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/HeckerSV01/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HeckerSV01/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3194-find-words-containing-character](https://github.com/HeckerSV01/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -473,6 +474,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/HeckerSV01/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HeckerSV01/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HeckerSV01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -703,6 +705,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2834-relocate-marbles](https://github.com/HeckerSV01/LeetCode/tree/master/2834-relocate-marbles) |
 | [2887-sort-vowels-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/HeckerSV01/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HeckerSV01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
