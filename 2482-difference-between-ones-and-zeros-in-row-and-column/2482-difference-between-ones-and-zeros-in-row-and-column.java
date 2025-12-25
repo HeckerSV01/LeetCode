@@ -20,7 +20,7 @@ class Solution {
         {
             for(int j=0;j<n;j++)
             {
-                res[i][j]=(m-zr[i])+(n-zc[j])-zr[i]-zc[j];
+                res[i][j]=(n-zr[i])+(m-zc[j])-zr[i]-zc[j];
             }
         }
         return res;
