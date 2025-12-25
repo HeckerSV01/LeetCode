@@ -362,6 +362,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/HeckerSV01/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2834-relocate-marbles](https://github.com/HeckerSV01/LeetCode/tree/master/2834-relocate-marbles) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/HeckerSV01/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -708,6 +709,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/HeckerSV01/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2834-relocate-marbles](https://github.com/HeckerSV01/LeetCode/tree/master/2834-relocate-marbles) |
 | [2887-sort-vowels-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/HeckerSV01/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -917,6 +919,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/HeckerSV01/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2834-relocate-marbles](https://github.com/HeckerSV01/LeetCode/tree/master/2834-relocate-marbles) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HeckerSV01/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
