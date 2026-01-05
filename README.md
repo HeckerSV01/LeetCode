@@ -302,6 +302,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HeckerSV01/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/HeckerSV01/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1459-apply-discount-every-n-orders](https://github.com/HeckerSV01/LeetCode/tree/master/1459-apply-discount-every-n-orders) |
+| [1463-cherry-pickup-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/HeckerSV01/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/HeckerSV01/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -428,6 +429,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/HeckerSV01/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HeckerSV01/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1463-cherry-pickup-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HeckerSV01/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Stack
@@ -588,6 +590,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/HeckerSV01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1380-number-of-closed-islands](https://github.com/HeckerSV01/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [1463-cherry-pickup-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1572-subrectangle-queries](https://github.com/HeckerSV01/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
