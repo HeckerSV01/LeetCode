@@ -1158,6 +1158,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HeckerSV01/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/HeckerSV01/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1254-deepest-leaves-sum) |
@@ -1248,6 +1249,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/HeckerSV01/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HeckerSV01/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/HeckerSV01/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1254-deepest-leaves-sum) |
@@ -1342,6 +1344,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/HeckerSV01/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/HeckerSV01/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HeckerSV01/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/HeckerSV01/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -1431,6 +1434,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HeckerSV01/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/HeckerSV01/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1254-deepest-leaves-sum) |
