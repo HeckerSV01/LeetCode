@@ -12,9 +12,15 @@ class Solution {
         }
         int max = Integer.MIN_VALUE;
         if (i1 == i2 && j1 == j2) {
-            max = Math.max(Math.max(a[i1][j1] + cal(i1 + 1, i2 + 1, j1, a, dp,m), a[i1][j1] + cal(i1 + 1, i2, j1, a, dp,m)), Math.max(a[i1][j1] + cal(i1, i2 + 1, j1 + 1, a, dp,m), a[i1][j1] + cal(i1, i2, j1 + 1, a, dp,m)));
+            max = Math.max(
+                    Math.max(a[i1][j1] + cal(i1 + 1, i2 + 1, j1, a, dp, m), a[i1][j1] + cal(i1 + 1, i2, j1, a, dp, m)),
+                    Math.max(a[i1][j1] + cal(i1, i2 + 1, j1 + 1, a, dp, m), a[i1][j1] + cal(i1, i2, j1 + 1, a, dp, m)));
         } else {
-            max = Math.max(Math.max(a[i1][j1] + a[i2][j2] + cal(i1 + 1, i2 + 1, j1, a, dp,m), a[i1][j1] + a[i2][j2] + cal(i1 + 1, i2, j1, a, dp,m)), Math.max(a[i1][j1] + a[i2][j2] + cal(i1, i2 + 1, j1 + 1, a, dp,m), a[i1][j1] + a[i2][j2] + cal(i1, i2, j1 + 1, a, dp,m)));
+            max = Math.max(
+                    Math.max(a[i1][j1] + a[i2][j2] + cal(i1 + 1, i2 + 1, j1, a, dp, m),
+                            a[i1][j1] + a[i2][j2] + cal(i1 + 1, i2, j1, a, dp, m)),
+                    Math.max(a[i1][j1] + a[i2][j2] + cal(i1, i2 + 1, j1 + 1, a, dp, m),
+                            a[i1][j1] + a[i2][j2] + cal(i1, i2, j1 + 1, a, dp, m)));
         }
         return dp[i1][i2][j1] = max;
     }
