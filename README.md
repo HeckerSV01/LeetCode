@@ -1166,6 +1166,7 @@
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/HeckerSV01/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HeckerSV01/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/HeckerSV01/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -1259,6 +1260,7 @@
 | [1267-count-servers-that-communicate](https://github.com/HeckerSV01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1285-balance-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/HeckerSV01/LeetCode/tree/master/1300-critical-connections-in-a-network) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/HeckerSV01/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HeckerSV01/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -1442,6 +1444,7 @@
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/HeckerSV01/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HeckerSV01/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/HeckerSV01/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
