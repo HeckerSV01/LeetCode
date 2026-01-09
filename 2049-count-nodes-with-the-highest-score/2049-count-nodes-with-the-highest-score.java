@@ -1,9 +1,5 @@
 class Solution {
     private void dfs(int a[], HashMap<Integer, Integer> sizes, HashMap<Integer, List<Integer>> map, int node) {
-        if (map.get(node).size() == 0) {
-            sizes.put(node, 1);
-            return;
-        }
         int size = 0;
         for (int k : map.get(node)) {
             dfs(a, sizes, map, k);
