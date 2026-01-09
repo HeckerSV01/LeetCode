@@ -336,6 +336,7 @@
 | [2023-design-movie-rental-system](https://github.com/HeckerSV01/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/HeckerSV01/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/HeckerSV01/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2058-concatenation-of-array](https://github.com/HeckerSV01/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/HeckerSV01/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -1177,6 +1178,7 @@
 | [1450-delete-leaves-with-a-given-value](https://github.com/HeckerSV01/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1722-throne-inheritance](https://github.com/HeckerSV01/LeetCode/tree/master/1722-throne-inheritance) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/HeckerSV01/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HeckerSV01/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/HeckerSV01/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/HeckerSV01/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -1281,6 +1283,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/HeckerSV01/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2092-find-all-people-with-secret](https://github.com/HeckerSV01/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2097-valid-arrangement-of-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HeckerSV01/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -1460,6 +1463,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HeckerSV01/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/HeckerSV01/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/HeckerSV01/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HeckerSV01/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/HeckerSV01/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/HeckerSV01/LeetCode/tree/master/2384-root-equals-sum-of-children) |
