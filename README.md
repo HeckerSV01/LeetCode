@@ -332,6 +332,7 @@
 | [1945-finding-the-users-active-minutes](https://github.com/HeckerSV01/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HeckerSV01/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1992-find-all-groups-of-farmland](https://github.com/HeckerSV01/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/HeckerSV01/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
@@ -601,6 +602,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/HeckerSV01/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1791-richest-customer-wealth](https://github.com/HeckerSV01/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1992-find-all-groups-of-farmland](https://github.com/HeckerSV01/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HeckerSV01/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/HeckerSV01/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -1282,6 +1284,7 @@
 | [1722-throne-inheritance](https://github.com/HeckerSV01/LeetCode/tree/master/1722-throne-inheritance) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1992-find-all-groups-of-farmland](https://github.com/HeckerSV01/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/HeckerSV01/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2092-find-all-people-with-secret](https://github.com/HeckerSV01/LeetCode/tree/master/2092-find-all-people-with-secret) |
@@ -1380,6 +1383,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HeckerSV01/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/HeckerSV01/LeetCode/tree/master/1765-map-of-highest-peak) |
+| [1992-find-all-groups-of-farmland](https://github.com/HeckerSV01/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
 | [2092-find-all-people-with-secret](https://github.com/HeckerSV01/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HeckerSV01/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
