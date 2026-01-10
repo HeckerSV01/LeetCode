@@ -1192,6 +1192,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/HeckerSV01/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HeckerSV01/LeetCode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1307,6 +1308,7 @@
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HeckerSV01/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HeckerSV01/LeetCode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HeckerSV01/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3729-unit-conversion-i](https://github.com/HeckerSV01/LeetCode/tree/master/3729-unit-conversion-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -1406,6 +1408,7 @@
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HeckerSV01/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HeckerSV01/LeetCode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HeckerSV01/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3729-unit-conversion-i](https://github.com/HeckerSV01/LeetCode/tree/master/3729-unit-conversion-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
