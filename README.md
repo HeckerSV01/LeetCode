@@ -1182,6 +1182,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/HeckerSV01/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1609-even-odd-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1609-even-odd-tree) |
 | [1722-throne-inheritance](https://github.com/HeckerSV01/LeetCode/tree/master/1722-throne-inheritance) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/HeckerSV01/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HeckerSV01/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -1391,6 +1392,7 @@
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/HeckerSV01/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HeckerSV01/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1609-even-odd-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1609-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/HeckerSV01/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1992-find-all-groups-of-farmland](https://github.com/HeckerSV01/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
@@ -1481,6 +1483,7 @@
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HeckerSV01/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/HeckerSV01/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1609-even-odd-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1609-even-odd-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/HeckerSV01/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HeckerSV01/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/HeckerSV01/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
