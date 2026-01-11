@@ -385,6 +385,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HeckerSV01/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HeckerSV01/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2834-relocate-marbles](https://github.com/HeckerSV01/LeetCode/tree/master/2834-relocate-marbles) |
@@ -444,6 +445,7 @@
 | [1463-cherry-pickup-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HeckerSV01/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HeckerSV01/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Stack
 |  |
 | ------- |
