@@ -398,6 +398,7 @@
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3194-find-words-containing-character](https://github.com/HeckerSV01/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/HeckerSV01/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HeckerSV01/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -1428,6 +1429,7 @@
 | [2641-cousins-in-binary-tree-ii](https://github.com/HeckerSV01/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HeckerSV01/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/HeckerSV01/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HeckerSV01/LeetCode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HeckerSV01/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
@@ -1719,6 +1721,7 @@
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HeckerSV01/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2793-count-the-number-of-complete-components](https://github.com/HeckerSV01/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3189-find-champion-ii) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/HeckerSV01/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HeckerSV01/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3729-unit-conversion-i](https://github.com/HeckerSV01/LeetCode/tree/master/3729-unit-conversion-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
