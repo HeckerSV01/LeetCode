@@ -15,29 +15,37 @@
  */
 class CBTInserter {
     TreeNode root;
+    Queue<TreeNode> q;
     public CBTInserter(TreeNode root) {
         this.root=root;
+        q=new LinkedList<>();
+        Queue<TreeNode> temp=new LinkedList<>();
+        temp.add(root);
+        while(!temp.isEmpty()){
+            TreeNode t=temp.remove();
+            if(t.left==null||t.right==null){
+                q.add(t);
+            }
+            if(t.left!=null){
+                temp.add(t.left);
+            }
+            if(t.right!=null){
+                temp.add(t.right);
+            }
+        }
     }
     
     public int insert(int val) {
         TreeNode node=new TreeNode(val);
-        Queue<TreeNode> q=new LinkedList<>();
-        q.add(root);
-        while(!q.isEmpty()){
-            TreeNode t=q.remove();
-            if(t.left!=null&&t.right!=null){
-                q.add(t.left);
-                q.add(t.right);
-            } else {
-                if(t.left==null){
-                    t.left=node;
-                } else if(t.right==null){
-                    t.right=node;
-                }
-                return t.val;
-            }
+        TreeNode parent=q.peek();
+        if(parent.left==null){
+            parent.left=node;
+        } else {
+            parent.right=node;
+            q.remove();
         }
-        return -1;
+        q.add(node);
+        return parent.val;
     }
     
     public TreeNode get_root() {
