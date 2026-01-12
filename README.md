@@ -1094,6 +1094,7 @@
 | [0838-design-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/HeckerSV01/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/HeckerSV01/LeetCode/tree/master/0860-design-circular-queue) |
+| [0919-complete-binary-tree-inserter](https://github.com/HeckerSV01/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0931-maximum-frequency-stack](https://github.com/HeckerSV01/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/HeckerSV01/LeetCode/tree/master/0937-online-stock-span) |
 | [0947-online-election](https://github.com/HeckerSV01/LeetCode/tree/master/0947-online-election) |
@@ -1175,6 +1176,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HeckerSV01/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HeckerSV01/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0919-complete-binary-tree-inserter](https://github.com/HeckerSV01/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0975-range-sum-of-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1377,6 +1379,7 @@
 | [0871-keys-and-rooms](https://github.com/HeckerSV01/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HeckerSV01/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0919-complete-binary-tree-inserter](https://github.com/HeckerSV01/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0922-possible-bipartition](https://github.com/HeckerSV01/LeetCode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/HeckerSV01/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
@@ -1480,6 +1483,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HeckerSV01/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HeckerSV01/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0919-complete-binary-tree-inserter](https://github.com/HeckerSV01/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0975-range-sum-of-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
