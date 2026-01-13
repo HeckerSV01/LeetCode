@@ -1195,6 +1195,7 @@
 | [1254-deepest-leaves-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/HeckerSV01/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HeckerSV01/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1297,6 +1298,7 @@
 | [1300-critical-connections-in-a-network](https://github.com/HeckerSV01/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1306-jump-game-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/HeckerSV01/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1380-number-of-closed-islands](https://github.com/HeckerSV01/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HeckerSV01/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -1404,6 +1406,7 @@
 | [1267-count-servers-that-communicate](https://github.com/HeckerSV01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/HeckerSV01/LeetCode/tree/master/1345-jump-game-iv) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/HeckerSV01/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1380-number-of-closed-islands](https://github.com/HeckerSV01/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HeckerSV01/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
