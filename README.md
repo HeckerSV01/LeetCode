@@ -1817,4 +1817,8 @@
 |  |
 | ------- |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/HeckerSV01/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/HeckerSV01/LeetCode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
