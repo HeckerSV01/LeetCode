@@ -254,6 +254,7 @@
 | [0413-arithmetic-slices](https://github.com/HeckerSV01/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HeckerSV01/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/HeckerSV01/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/HeckerSV01/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/0455-assign-cookies) |
@@ -611,6 +612,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/HeckerSV01/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HeckerSV01/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/HeckerSV01/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/HeckerSV01/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/HeckerSV01/LeetCode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0542-01-matrix) |
@@ -1270,6 +1272,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/HeckerSV01/LeetCode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HeckerSV01/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/HeckerSV01/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/HeckerSV01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
