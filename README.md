@@ -829,6 +829,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HeckerSV01/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/HeckerSV01/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/HeckerSV01/LeetCode/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/HeckerSV01/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/HeckerSV01/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
@@ -1799,6 +1800,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/HeckerSV01/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HeckerSV01/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HeckerSV01/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/HeckerSV01/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/HeckerSV01/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/HeckerSV01/LeetCode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Brainteaser
@@ -1834,6 +1836,7 @@
 |  |
 | ------- |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/HeckerSV01/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/HeckerSV01/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Database
 |  |
 | ------- |
