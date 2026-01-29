@@ -261,6 +261,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/HeckerSV01/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/HeckerSV01/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -458,6 +459,7 @@
 | [0322-coin-change](https://github.com/HeckerSV01/LeetCode/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/HeckerSV01/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/HeckerSV01/LeetCode/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HeckerSV01/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1113,6 +1115,7 @@
 | [0090-subsets-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0494-target-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2107-find-unique-binary-string](https://github.com/HeckerSV01/LeetCode/tree/master/2107-find-unique-binary-string) |
