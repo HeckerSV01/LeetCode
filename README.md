@@ -148,6 +148,7 @@
 | [0926-find-and-replace-pattern](https://github.com/HeckerSV01/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1023-time-based-key-value-store](https://github.com/HeckerSV01/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1143-longest-common-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/HeckerSV01/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HeckerSV01/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HeckerSV01/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -471,6 +472,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/HeckerSV01/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/HeckerSV01/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
+| [1143-longest-common-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HeckerSV01/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1463-cherry-pickup-ii) |
