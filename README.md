@@ -414,6 +414,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/HeckerSV01/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/HeckerSV01/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HeckerSV01/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HeckerSV01/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HeckerSV01/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
@@ -807,6 +808,7 @@
 | [2834-relocate-marbles](https://github.com/HeckerSV01/LeetCode/tree/master/2834-relocate-marbles) |
 | [2887-sort-vowels-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/HeckerSV01/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HeckerSV01/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HeckerSV01/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HeckerSV01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1852,6 +1854,7 @@
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HeckerSV01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HeckerSV01/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Eulerian Circuit
 |  |
 | ------- |
