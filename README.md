@@ -135,6 +135,7 @@
 | [0443-string-compression](https://github.com/HeckerSV01/LeetCode/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HeckerSV01/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/HeckerSV01/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/HeckerSV01/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -467,6 +468,7 @@
 | [0413-arithmetic-slices](https://github.com/HeckerSV01/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/HeckerSV01/LeetCode/tree/master/0741-cherry-pickup) |
