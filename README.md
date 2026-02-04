@@ -139,6 +139,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/HeckerSV01/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/HeckerSV01/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/HeckerSV01/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0583-delete-operation-for-two-strings](https://github.com/HeckerSV01/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/HeckerSV01/LeetCode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/HeckerSV01/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/0677-map-sum-pairs) |
@@ -472,6 +473,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/HeckerSV01/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/HeckerSV01/LeetCode/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HeckerSV01/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0931-minimum-falling-path-sum) |
