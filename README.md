@@ -150,6 +150,7 @@
 | [0916-word-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0916-word-subsets) |
 | [0926-find-and-replace-pattern](https://github.com/HeckerSV01/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1023-time-based-key-value-store](https://github.com/HeckerSV01/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1092-shortest-common-supersequence](https://github.com/HeckerSV01/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1143-longest-common-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/HeckerSV01/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -480,6 +481,7 @@
 | [0968-binary-tree-cameras](https://github.com/HeckerSV01/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/HeckerSV01/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
+| [1092-shortest-common-supersequence](https://github.com/HeckerSV01/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1117-as-far-from-land-as-possible](https://github.com/HeckerSV01/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1143-longest-common-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HeckerSV01/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
