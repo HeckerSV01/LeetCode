@@ -430,6 +430,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HeckerSV01/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3379-transformed-array](https://github.com/HeckerSV01/LeetCode/tree/master/3379-transformed-array) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/HeckerSV01/LeetCode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HeckerSV01/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -764,6 +765,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2834-relocate-marbles](https://github.com/HeckerSV01/LeetCode/tree/master/2834-relocate-marbles) |
 | [3336-water-bottles-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/HeckerSV01/LeetCode/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HeckerSV01/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
