@@ -119,6 +119,7 @@
 | [0049-group-anagrams](https://github.com/HeckerSV01/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/HeckerSV01/LeetCode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/HeckerSV01/LeetCode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/HeckerSV01/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/HeckerSV01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/HeckerSV01/LeetCode/tree/master/0127-word-ladder) |
@@ -461,6 +462,7 @@
 | [0063-unique-paths-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/HeckerSV01/LeetCode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/HeckerSV01/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/HeckerSV01/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/HeckerSV01/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HeckerSV01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
