@@ -192,6 +192,7 @@
 | [3567-convert-date-to-binary](https://github.com/HeckerSV01/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/HeckerSV01/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3707-find-the-most-common-response](https://github.com/HeckerSV01/LeetCode/tree/master/3707-find-the-most-common-response) |
+| [3713-longest-balanced-substring-i](https://github.com/HeckerSV01/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/HeckerSV01/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3797-design-spreadsheet](https://github.com/HeckerSV01/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Array
@@ -939,6 +940,7 @@
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HeckerSV01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3707-find-the-most-common-response](https://github.com/HeckerSV01/LeetCode/tree/master/3707-find-the-most-common-response) |
+| [3713-longest-balanced-substring-i](https://github.com/HeckerSV01/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1074,6 +1076,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/HeckerSV01/LeetCode/tree/master/3678-design-task-manager) |
 | [3707-find-the-most-common-response](https://github.com/HeckerSV01/LeetCode/tree/master/3707-find-the-most-common-response) |
+| [3713-longest-balanced-substring-i](https://github.com/HeckerSV01/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/HeckerSV01/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/HeckerSV01/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3797-design-spreadsheet](https://github.com/HeckerSV01/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -1898,6 +1901,7 @@
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HeckerSV01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HeckerSV01/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/HeckerSV01/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Eulerian Circuit
 |  |
 | ------- |
