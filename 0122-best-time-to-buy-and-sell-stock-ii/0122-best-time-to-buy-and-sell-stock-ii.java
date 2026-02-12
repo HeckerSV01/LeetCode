@@ -1,19 +1,34 @@
 class Solution {
-    public int maxProfit(int[] prices) {
-        int min=prices[0];
-        int profit=0;
-        for(int i=1;i<prices.length;i++)
-        {
-            if(prices[i]<min)
-            {
-                min=prices[i];
-            }
-            else if(prices[i]>min)
-            {
-                profit+=(prices[i]-min);
-                min=prices[i];
+    private int cal(int a[], int i, int canbuy, int dp[][]) {
+        if (i == a.length - 1) {
+            if (canbuy == 1) {
+                return 0;
+            } else {
+                int sell = a[a.length - 1];
+                int skip = 0;
+                return Math.max(sell, skip);
             }
         }
-        return profit;
+        if (dp[i][canbuy] != -1) {
+            return dp[i][canbuy];
+        }
+        if (canbuy == 1) {
+            int buy = -a[i] + cal(a, i + 1, 0, dp);
+            int skip = cal(a, i + 1, 1, dp);
+            return dp[i][canbuy] = Math.max(buy, skip);
+        } else {
+            int sell = a[i] + cal(a, i + 1, 1, dp);
+            int skip = cal(a, i + 1, 0, dp);
+            return dp[i][canbuy] = Math.max(sell, skip);
+        }
+    }
+
+    public int maxProfit(int[] prices) {
+        int dp[][] = new int[prices.length][2];
+        for (int i = 0; i < prices.length; i++) {
+            dp[i][0] = -1;
+            dp[i][1] = -1;
+        }
+        return cal(prices, 0, 1, dp);
     }
 }
