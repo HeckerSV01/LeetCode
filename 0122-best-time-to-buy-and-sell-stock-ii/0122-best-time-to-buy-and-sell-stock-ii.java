@@ -1,34 +1,15 @@
 class Solution {
-    private int cal(int a[], int i, int canbuy, int dp[][]) {
-        if (i == a.length - 1) {
-            if (canbuy == 1) {
-                return 0;
-            } else {
-                int sell = a[a.length - 1];
-                int skip = 0;
-                return Math.max(sell, skip);
-            }
-        }
-        if (dp[i][canbuy] != -1) {
-            return dp[i][canbuy];
-        }
-        if (canbuy == 1) {
-            int buy = -a[i] + cal(a, i + 1, 0, dp);
-            int skip = cal(a, i + 1, 1, dp);
-            return dp[i][canbuy] = Math.max(buy, skip);
-        } else {
-            int sell = a[i] + cal(a, i + 1, 1, dp);
-            int skip = cal(a, i + 1, 0, dp);
-            return dp[i][canbuy] = Math.max(sell, skip);
-        }
-    }
-
     public int maxProfit(int[] prices) {
-        int dp[][] = new int[prices.length][2];
-        for (int i = 0; i < prices.length; i++) {
-            dp[i][0] = -1;
-            dp[i][1] = -1;
+        int n = prices.length;
+        int[][] dp = new int[n + 1][2];
+        for (int i = n - 1; i >= 0; i--) {
+            int buy = -prices[i] + dp[i + 1][0];
+            int skipBuy = dp[i + 1][1];
+            dp[i][1] = Math.max(buy, skipBuy);
+            int sell = prices[i] + dp[i + 1][1];
+            int skipSell = dp[i + 1][0];
+            dp[i][0] = Math.max(sell, skipSell);
         }
-        return cal(prices, 0, 1, dp);
+        return dp[0][1];
     }
 }
