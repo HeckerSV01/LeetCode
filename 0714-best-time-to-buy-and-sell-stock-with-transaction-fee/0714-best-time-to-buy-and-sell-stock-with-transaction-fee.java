@@ -1,0 +1,34 @@
+class Solution {
+    private int cal(int a[], int i, int canbuy, int fee, int dp[][]) {
+        if (i == a.length - 1) {
+            if (canbuy == 1) {
+                return 0;
+            } else {
+                int sell = a[a.length - 1] - fee;
+                int skip = 0;
+                return Math.max(sell, skip);
+            }
+        }
+        if (dp[i][canbuy] != -1) {
+            return dp[i][canbuy];
+        }
+        if (canbuy == 1) {
+            int buy = -a[i] + cal(a, i + 1, 0, fee, dp);
+            int skip = cal(a, i + 1, 1, fee, dp);
+            return dp[i][canbuy] = Math.max(buy, skip);
+        } else {
+            int sell = a[i] - fee + cal(a, i + 1, 1, fee, dp);
+            int skip = cal(a, i + 1, 0, fee, dp);
+            return dp[i][canbuy] = Math.max(sell, skip);
+        }
+    }
+
+    public int maxProfit(int[] prices, int fee) {
+        int dp[][] = new int[prices.length][2];
+        for (int i = 0; i < prices.length; i++) {
+            dp[i][0] = -1;
+            dp[i][1] = -1;
+        }
+        return cal(prices, 0, 1, fee, dp);
+    }
+}
