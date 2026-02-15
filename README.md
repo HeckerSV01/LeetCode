@@ -97,6 +97,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/HeckerSV01/LeetCode/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/HeckerSV01/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -155,6 +156,7 @@
 | [0916-word-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0916-word-subsets) |
 | [0926-find-and-replace-pattern](https://github.com/HeckerSV01/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1023-time-based-key-value-store](https://github.com/HeckerSV01/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1048-longest-string-chain](https://github.com/HeckerSV01/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/HeckerSV01/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1143-longest-common-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -320,6 +322,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/HeckerSV01/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1014-k-closest-points-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/HeckerSV01/LeetCode/tree/master/1036-rotting-oranges) |
+| [1048-longest-string-chain](https://github.com/HeckerSV01/LeetCode/tree/master/1048-longest-string-chain) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HeckerSV01/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -507,6 +510,7 @@
 | [0968-binary-tree-cameras](https://github.com/HeckerSV01/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/HeckerSV01/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
+| [1048-longest-string-chain](https://github.com/HeckerSV01/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/HeckerSV01/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1117-as-far-from-land-as-possible](https://github.com/HeckerSV01/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1143-longest-common-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -826,6 +830,7 @@
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/HeckerSV01/LeetCode/tree/master/1048-longest-string-chain) |
 | [1169-largest-values-from-labels](https://github.com/HeckerSV01/LeetCode/tree/master/1169-largest-values-from-labels) |
 | [1200-minimum-absolute-difference](https://github.com/HeckerSV01/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HeckerSV01/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -1018,6 +1023,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HeckerSV01/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/HeckerSV01/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/HeckerSV01/LeetCode/tree/master/1048-longest-string-chain) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HeckerSV01/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1169-largest-values-from-labels](https://github.com/HeckerSV01/LeetCode/tree/master/1169-largest-values-from-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HeckerSV01/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
