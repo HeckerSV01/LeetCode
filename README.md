@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/HeckerSV01/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HeckerSV01/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/HeckerSV01/LeetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/HeckerSV01/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HeckerSV01/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HeckerSV01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/HeckerSV01/LeetCode/tree/master/0189-rotate-array) |
@@ -122,6 +123,7 @@
 | [0044-wildcard-matching](https://github.com/HeckerSV01/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/HeckerSV01/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/HeckerSV01/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/HeckerSV01/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/HeckerSV01/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/HeckerSV01/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/HeckerSV01/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -750,6 +752,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HeckerSV01/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0137-single-number-ii) |
@@ -774,6 +777,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/HeckerSV01/LeetCode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/HeckerSV01/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/HeckerSV01/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/HeckerSV01/LeetCode/tree/master/0537-complex-number-multiplication) |
