@@ -332,6 +332,7 @@
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HeckerSV01/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/HeckerSV01/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1095-find-in-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1117-as-far-from-land-as-possible](https://github.com/HeckerSV01/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1169-largest-values-from-labels](https://github.com/HeckerSV01/LeetCode/tree/master/1169-largest-values-from-labels) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -637,6 +638,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0947-online-election](https://github.com/HeckerSV01/LeetCode/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/HeckerSV01/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1095-find-in-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HeckerSV01/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/HeckerSV01/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -734,6 +736,7 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/HeckerSV01/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
