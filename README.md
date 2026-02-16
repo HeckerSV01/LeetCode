@@ -365,6 +365,7 @@
 | [1582-design-browser-history](https://github.com/HeckerSV01/LeetCode/tree/master/1582-design-browser-history) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/HeckerSV01/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HeckerSV01/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1752-arithmetic-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1752-arithmetic-subarrays) |
@@ -526,6 +527,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HeckerSV01/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HeckerSV01/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2140-solving-questions-with-brainpower](https://github.com/HeckerSV01/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HeckerSV01/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -596,6 +598,7 @@
 | [1448-maximum-69-number](https://github.com/HeckerSV01/LeetCode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/HeckerSV01/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/HeckerSV01/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/HeckerSV01/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1792-maximum-average-pass-ratio](https://github.com/HeckerSV01/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
@@ -640,6 +643,7 @@
 | [1023-time-based-key-value-store](https://github.com/HeckerSV01/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1095-find-in-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HeckerSV01/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/HeckerSV01/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeckerSV01/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
