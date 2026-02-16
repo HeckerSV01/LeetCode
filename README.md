@@ -310,6 +310,7 @@
 | [0829-subdomain-visit-count](https://github.com/HeckerSV01/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0835-linked-list-components](https://github.com/HeckerSV01/LeetCode/tree/master/0835-linked-list-components) |
 | [0845-longest-mountain-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/HeckerSV01/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/HeckerSV01/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/HeckerSV01/LeetCode/tree/master/0860-design-circular-queue) |
@@ -633,6 +634,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/HeckerSV01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/HeckerSV01/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0947-online-election](https://github.com/HeckerSV01/LeetCode/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/HeckerSV01/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HeckerSV01/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
