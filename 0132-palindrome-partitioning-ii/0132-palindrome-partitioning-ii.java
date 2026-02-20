@@ -12,28 +12,20 @@ class Solution {
         return true;
     }
 
-    private int cal(String s, int i, int dp[]) {
-        if (i == s.length()) {
-            return 0;
-        }
-        if (dp[i] != -1) {
-            return dp[i];
-        }
-        String str = "";
-        int min = Integer.MAX_VALUE;
-        for (int j = i; j < s.length(); j++) {
-            str = s.substring(i, j + 1);
-            if (ispalin(str)) {
-                int steps = 1 + cal(s, j + 1, dp);
-                min = Math.min(min, steps);
-            }
-        }
-        return dp[i] = min;
-    }
-
     public int minCut(String s) {
-        int dp[] = new int[s.length()];
-        Arrays.fill(dp, -1);
-        return cal(s, 0, dp) - 1;
+        int dp[] = new int[s.length()+1];
+        for (int i = dp.length - 2; i >= 0; i--) {
+            String str = "";
+            int min = Integer.MAX_VALUE;
+            for (int j = i; j < s.length(); j++) {
+                str = s.substring(i, j + 1);
+                if (ispalin(str)) {
+                    int steps = 1 + dp[j + 1];
+                    min = Math.min(min, steps);
+                }
+            }
+            dp[i] = min;
+        }
+        return dp[0]-1;
     }
 }
