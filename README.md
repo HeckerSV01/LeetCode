@@ -28,6 +28,7 @@
 | [0447-number-of-boomerangs](https://github.com/HeckerSV01/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0537-complex-number-multiplication](https://github.com/HeckerSV01/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/HeckerSV01/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HeckerSV01/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0915-generate-random-point-in-a-circle](https://github.com/HeckerSV01/LeetCode/tree/master/0915-generate-random-point-in-a-circle) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -785,6 +786,7 @@
 | [0287-find-the-duplicate-number](https://github.com/HeckerSV01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/HeckerSV01/LeetCode/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/HeckerSV01/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HeckerSV01/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
