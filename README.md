@@ -252,6 +252,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/HeckerSV01/LeetCode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/HeckerSV01/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/HeckerSV01/LeetCode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/HeckerSV01/LeetCode/tree/master/0162-find-peak-element) |
@@ -786,6 +787,7 @@
 | [0067-add-binary](https://github.com/HeckerSV01/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/HeckerSV01/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/HeckerSV01/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/HeckerSV01/LeetCode/tree/master/0190-reverse-bits) |
