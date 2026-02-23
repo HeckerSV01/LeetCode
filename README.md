@@ -136,6 +136,7 @@
 | [0131-palindrome-partitioning](https://github.com/HeckerSV01/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/HeckerSV01/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/HeckerSV01/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -255,6 +256,7 @@
 | [0136-single-number](https://github.com/HeckerSV01/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/HeckerSV01/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/HeckerSV01/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/HeckerSV01/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HeckerSV01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -511,6 +513,7 @@
 | [0131-palindrome-partitioning](https://github.com/HeckerSV01/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/HeckerSV01/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HeckerSV01/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/HeckerSV01/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0213-house-robber-ii) |
@@ -809,6 +812,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/HeckerSV01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/HeckerSV01/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
@@ -1024,6 +1028,7 @@
 | [0133-clone-graph](https://github.com/HeckerSV01/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/HeckerSV01/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/HeckerSV01/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/HeckerSV01/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/HeckerSV01/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -1234,6 +1239,7 @@
 | [0113-path-sum-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/HeckerSV01/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -1715,6 +1721,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/HeckerSV01/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0336-palindrome-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0648-replace-words](https://github.com/HeckerSV01/LeetCode/tree/master/0648-replace-words) |
