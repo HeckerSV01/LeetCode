@@ -530,6 +530,7 @@
 | [0368-largest-divisible-subset](https://github.com/HeckerSV01/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/HeckerSV01/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0397-integer-replacement](https://github.com/HeckerSV01/LeetCode/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/HeckerSV01/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0494-target-sum) |
@@ -619,6 +620,7 @@
 | [0055-jump-game](https://github.com/HeckerSV01/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/HeckerSV01/LeetCode/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HeckerSV01/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/HeckerSV01/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -808,6 +810,7 @@
 | [0260-single-number-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/HeckerSV01/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/HeckerSV01/LeetCode/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/HeckerSV01/LeetCode/tree/master/0397-integer-replacement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/HeckerSV01/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HeckerSV01/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/HeckerSV01/LeetCode/tree/master/0868-binary-gap) |
@@ -823,6 +826,7 @@
 | [0070-climbing-stairs](https://github.com/HeckerSV01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/HeckerSV01/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0140-word-break-ii) |
+| [0397-integer-replacement](https://github.com/HeckerSV01/LeetCode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
