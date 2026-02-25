@@ -283,6 +283,7 @@
 | [0336-palindrome-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/HeckerSV01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/HeckerSV01/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HeckerSV01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HeckerSV01/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -525,6 +526,7 @@
 | [0322-coin-change](https://github.com/HeckerSV01/LeetCode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/HeckerSV01/LeetCode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/HeckerSV01/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/HeckerSV01/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0494-target-sum) |
@@ -613,6 +615,7 @@
 | [0045-jump-game-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HeckerSV01/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0376-wiggle-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HeckerSV01/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/HeckerSV01/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
