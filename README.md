@@ -175,6 +175,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HeckerSV01/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HeckerSV01/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/HeckerSV01/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-design-underground-system](https://github.com/HeckerSV01/LeetCode/tree/master/1512-design-underground-system) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/HeckerSV01/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
@@ -818,6 +819,7 @@
 | [0868-binary-gap](https://github.com/HeckerSV01/LeetCode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HeckerSV01/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -840,6 +842,7 @@
 | [0498-diagonal-traverse](https://github.com/HeckerSV01/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/HeckerSV01/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [1310-watering-plants](https://github.com/HeckerSV01/LeetCode/tree/master/1310-watering-plants) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/HeckerSV01/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/HeckerSV01/LeetCode/tree/master/1803-average-waiting-time) |
