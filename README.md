@@ -16,6 +16,7 @@
 | [0223-rectangle-area](https://github.com/HeckerSV01/LeetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/HeckerSV01/LeetCode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/HeckerSV01/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0319-bulb-switcher](https://github.com/HeckerSV01/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/HeckerSV01/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HeckerSV01/LeetCode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/HeckerSV01/LeetCode/tree/master/0343-integer-break) |
@@ -1985,6 +1986,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/HeckerSV01/LeetCode/tree/master/0319-bulb-switcher) |
 | [2481-strictly-palindromic-number](https://github.com/HeckerSV01/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Biconnected Component
 |  |
