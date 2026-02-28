@@ -20,3 +20,4 @@ class Solution {
         return cal(nums,0,nums.length-1,dp)>=0;
     }
 }
+//f(i,j) gives the maximum score difference with player1 starting first....
