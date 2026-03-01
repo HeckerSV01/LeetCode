@@ -374,6 +374,7 @@
 | [1380-number-of-closed-islands](https://github.com/HeckerSV01/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1390-four-divisors](https://github.com/HeckerSV01/LeetCode/tree/master/1390-four-divisors) |
+| [1402-reducing-dishes](https://github.com/HeckerSV01/LeetCode/tree/master/1402-reducing-dishes) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HeckerSV01/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/HeckerSV01/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/HeckerSV01/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -565,6 +566,7 @@
 | [1143-longest-common-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HeckerSV01/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1402-reducing-dishes](https://github.com/HeckerSV01/LeetCode/tree/master/1402-reducing-dishes) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HeckerSV01/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1463-cherry-pickup-ii) |
@@ -640,6 +642,7 @@
 | [1169-largest-values-from-labels](https://github.com/HeckerSV01/LeetCode/tree/master/1169-largest-values-from-labels) |
 | [1285-balance-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1402-reducing-dishes](https://github.com/HeckerSV01/LeetCode/tree/master/1402-reducing-dishes) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HeckerSV01/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/HeckerSV01/LeetCode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/HeckerSV01/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -912,6 +915,7 @@
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HeckerSV01/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/HeckerSV01/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HeckerSV01/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1402-reducing-dishes](https://github.com/HeckerSV01/LeetCode/tree/master/1402-reducing-dishes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HeckerSV01/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/HeckerSV01/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1464-reduce-array-size-to-the-half](https://github.com/HeckerSV01/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
