@@ -36,6 +36,7 @@
 | [0915-generate-random-point-in-a-circle](https://github.com/HeckerSV01/LeetCode/tree/master/0915-generate-random-point-in-a-circle) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1227-airplane-seat-assignment-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HeckerSV01/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/HeckerSV01/LeetCode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HeckerSV01/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -580,6 +581,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/HeckerSV01/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/HeckerSV01/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1143-longest-common-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1227-airplane-seat-assignment-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HeckerSV01/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1387-sort-integers-by-the-power-value](https://github.com/HeckerSV01/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
@@ -2031,6 +2033,7 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/HeckerSV01/LeetCode/tree/master/0319-bulb-switcher) |
+| [1227-airplane-seat-assignment-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [2481-strictly-palindromic-number](https://github.com/HeckerSV01/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Biconnected Component
 |  |
@@ -2086,4 +2089,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/HeckerSV01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/HeckerSV01/LeetCode/tree/master/0877-stone-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
