@@ -38,6 +38,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1227-airplane-seat-assignment-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HeckerSV01/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/HeckerSV01/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1390-four-divisors](https://github.com/HeckerSV01/LeetCode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HeckerSV01/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/HeckerSV01/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -591,6 +592,7 @@
 | [1143-longest-common-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1227-airplane-seat-assignment-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HeckerSV01/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/HeckerSV01/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1387-sort-integers-by-the-power-value](https://github.com/HeckerSV01/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
@@ -1923,6 +1925,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HeckerSV01/LeetCode/tree/master/0062-unique-paths) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/HeckerSV01/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1641-count-sorted-vowel-strings](https://github.com/HeckerSV01/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Union Find
