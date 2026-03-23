@@ -323,6 +323,7 @@
 | [0518-coin-change-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0518-coin-change-ii) |
 | [0529-minesweeper](https://github.com/HeckerSV01/LeetCode/tree/master/0529-minesweeper) |
 | [0539-minimum-time-difference](https://github.com/HeckerSV01/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0542-01-matrix) |
 | [0648-replace-words](https://github.com/HeckerSV01/LeetCode/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -735,6 +736,7 @@
 | [0367-valid-perfect-square](https://github.com/HeckerSV01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/HeckerSV01/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/HeckerSV01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/HeckerSV01/LeetCode/tree/master/0794-swim-in-rising-water) |
