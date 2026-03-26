@@ -597,6 +597,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/HeckerSV01/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/HeckerSV01/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1143-longest-common-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1227-airplane-seat-assignment-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HeckerSV01/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
