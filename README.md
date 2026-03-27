@@ -307,6 +307,7 @@
 | [0384-shuffle-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0399-evaluate-division](https://github.com/HeckerSV01/LeetCode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/HeckerSV01/LeetCode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/HeckerSV01/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HeckerSV01/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -574,6 +575,7 @@
 | [0377-combination-sum-iv](https://github.com/HeckerSV01/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0397-integer-replacement](https://github.com/HeckerSV01/LeetCode/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/HeckerSV01/LeetCode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/HeckerSV01/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/HeckerSV01/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -691,6 +693,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/HeckerSV01/LeetCode/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HeckerSV01/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/HeckerSV01/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -742,6 +745,7 @@
 | [0367-valid-perfect-square](https://github.com/HeckerSV01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/HeckerSV01/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/HeckerSV01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HeckerSV01/LeetCode/tree/master/0792-binary-search) |
@@ -1280,6 +1284,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/HeckerSV01/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HeckerSV01/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HeckerSV01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/HeckerSV01/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/HeckerSV01/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
