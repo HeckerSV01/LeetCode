@@ -276,6 +276,7 @@
 | [0162-find-peak-element](https://github.com/HeckerSV01/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/HeckerSV01/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HeckerSV01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/HeckerSV01/LeetCode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HeckerSV01/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/HeckerSV01/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/HeckerSV01/LeetCode/tree/master/0198-house-robber) |
@@ -877,6 +878,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/HeckerSV01/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/HeckerSV01/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/HeckerSV01/LeetCode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HeckerSV01/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -974,6 +976,7 @@
 | [0088-merge-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/HeckerSV01/LeetCode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/HeckerSV01/LeetCode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/HeckerSV01/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/HeckerSV01/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/HeckerSV01/LeetCode/tree/master/0295-find-median-from-data-stream) |
@@ -1095,6 +1098,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HeckerSV01/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/HeckerSV01/LeetCode/tree/master/0274-h-index) |
 | [0299-bulls-and-cows](https://github.com/HeckerSV01/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -1148,6 +1152,7 @@
 | [0140-word-break-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/HeckerSV01/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/HeckerSV01/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/HeckerSV01/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0229-majority-element-ii) |
