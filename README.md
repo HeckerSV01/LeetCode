@@ -433,6 +433,7 @@
 | [1813-maximum-erasure-value](https://github.com/HeckerSV01/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HeckerSV01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1901-find-a-peak-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/HeckerSV01/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1945-finding-the-users-active-minutes](https://github.com/HeckerSV01/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
@@ -763,6 +764,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/HeckerSV01/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/HeckerSV01/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeckerSV01/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -837,6 +839,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/HeckerSV01/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1791-richest-customer-wealth](https://github.com/HeckerSV01/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1901-find-a-peak-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1992-find-all-groups-of-farmland](https://github.com/HeckerSV01/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HeckerSV01/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
