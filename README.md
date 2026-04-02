@@ -515,6 +515,7 @@
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/HeckerSV01/LeetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3379-transformed-array](https://github.com/HeckerSV01/LeetCode/tree/master/3379-transformed-array) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/HeckerSV01/LeetCode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HeckerSV01/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HeckerSV01/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HeckerSV01/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -633,6 +634,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HeckerSV01/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/HeckerSV01/LeetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HeckerSV01/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/HeckerSV01/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3693-climbing-stairs-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/HeckerSV01/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -860,6 +862,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/HeckerSV01/LeetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HeckerSV01/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HeckerSV01/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HeckerSV01/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
