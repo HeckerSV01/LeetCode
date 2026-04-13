@@ -213,6 +213,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-find-words-containing-character](https://github.com/HeckerSV01/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HeckerSV01/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HeckerSV01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3379-score-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/3379-score-of-a-string) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/HeckerSV01/LeetCode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
@@ -929,6 +930,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/HeckerSV01/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/HeckerSV01/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HeckerSV01/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HeckerSV01/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
@@ -1387,6 +1389,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2107-find-unique-binary-string](https://github.com/HeckerSV01/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HeckerSV01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HeckerSV01/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |
 | ------- |
