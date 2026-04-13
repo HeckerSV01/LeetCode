@@ -504,6 +504,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/HeckerSV01/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/HeckerSV01/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/HeckerSV01/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HeckerSV01/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HeckerSV01/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HeckerSV01/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -930,6 +931,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/HeckerSV01/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/HeckerSV01/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/HeckerSV01/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HeckerSV01/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HeckerSV01/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
