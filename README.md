@@ -536,6 +536,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HeckerSV01/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HeckerSV01/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HeckerSV01/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3488-closest-equal-element-queries](https://github.com/HeckerSV01/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -789,6 +790,7 @@
 | [2334-number-of-flowers-in-full-bloom](https://github.com/HeckerSV01/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeckerSV01/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3488-closest-equal-element-queries](https://github.com/HeckerSV01/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/HeckerSV01/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Recursion
@@ -1301,6 +1303,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HeckerSV01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HeckerSV01/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3488-closest-equal-element-queries](https://github.com/HeckerSV01/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/HeckerSV01/LeetCode/tree/master/3678-design-task-manager) |
