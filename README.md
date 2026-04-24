@@ -171,6 +171,7 @@
 | [0539-minimum-time-difference](https://github.com/HeckerSV01/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/HeckerSV01/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/HeckerSV01/LeetCode/tree/master/0648-replace-words) |
+| [0657-robot-return-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0676-implement-magic-dictionary](https://github.com/HeckerSV01/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/HeckerSV01/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -971,6 +972,7 @@
 | [0289-game-of-life](https://github.com/HeckerSV01/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/HeckerSV01/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/HeckerSV01/LeetCode/tree/master/0537-complex-number-multiplication) |
+| [0657-robot-return-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1310-watering-plants](https://github.com/HeckerSV01/LeetCode/tree/master/1310-watering-plants) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
