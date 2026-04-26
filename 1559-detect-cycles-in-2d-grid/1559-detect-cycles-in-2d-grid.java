@@ -3,6 +3,7 @@ class Solution {
 
     private boolean dfs(char grid[][], boolean vis[][], int i, int j, int previ, int prevj) {
         vis[i][j] = true;
+
         for (int k = 0; k < 4; k++) {
             int ni = i + dir[k][0];
             int nj = j + dir[k][1];
