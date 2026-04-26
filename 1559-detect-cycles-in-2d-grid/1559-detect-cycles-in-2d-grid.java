@@ -1,10 +1,8 @@
 class Solution {
     final int dir[][] = { { 0, 1 }, { 1, 0 }, { 0, -1 }, { -1, 0 } };
 
-    private boolean dfs(char grid[][], boolean vis[][], int i, int j, char prev, int previ, int prevj) {
-        if (!vis[i][j] && grid[i][j] == prev) {
-            vis[i][j] = true;
-        }
+    private boolean dfs(char grid[][], boolean vis[][], int i, int j, int previ, int prevj) {
+        vis[i][j] = true;
         for (int k = 0; k < 4; k++) {
             int ni = i + dir[k][0];
             int nj = j + dir[k][1];
@@ -19,7 +17,7 @@ class Solution {
                     return true;
                 }
                 if (!vis[ni][nj] && grid[ni][nj] == grid[i][j]) {
-                    if(dfs(grid, vis, ni, nj, grid[i][j], i, j)){
+                    if(dfs(grid, vis, ni, nj, i, j)){
                         return true;
                     }
                 }
@@ -33,7 +31,7 @@ class Solution {
         for (int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid[0].length; j++) {
                 if (!vis[i][j]) {
-                    if(dfs(grid, vis, i, j, grid[i][j], -1, -1)){
+                    if(dfs(grid, vis, i, j, -1, -1)){
                         return true;
                     }
                 }
