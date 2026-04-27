@@ -213,6 +213,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HeckerSV01/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2285-design-bitset](https://github.com/HeckerSV01/LeetCode/tree/master/2285-design-bitset) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/HeckerSV01/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/HeckerSV01/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2378-sender-with-largest-word-count](https://github.com/HeckerSV01/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2389-design-a-text-editor](https://github.com/HeckerSV01/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2429-design-a-food-rating-system](https://github.com/HeckerSV01/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -696,6 +697,7 @@
 | [1582-design-browser-history](https://github.com/HeckerSV01/LeetCode/tree/master/1582-design-browser-history) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/HeckerSV01/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2389-design-a-text-editor](https://github.com/HeckerSV01/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2573-remove-nodes-from-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -751,6 +753,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/HeckerSV01/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/HeckerSV01/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/HeckerSV01/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -1432,6 +1435,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2107-find-unique-binary-string](https://github.com/HeckerSV01/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HeckerSV01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/HeckerSV01/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HeckerSV01/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |
