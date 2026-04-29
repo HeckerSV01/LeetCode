@@ -1,17 +1,18 @@
 class Solution {
     public int maxProduct(String[] words) {
-        int a[][]=new int[words.length][26];
+        HashMap<Integer,HashSet<Character>> map=new HashMap<>();
         for(int i=0;i<words.length;i++){
+            map.putIfAbsent(i,new HashSet<>());
             for(int j=0;j<words[i].length();j++){
-                a[i][words[i].charAt(j)-'a']=1;
+                map.get(i).add(words[i].charAt(j));
             }
         }
         int res=0;
         for(int i=0;i<words.length;i++){
             for(int j=i+1;j<words.length;j++){
                 boolean check=true;
-                for(int k=0;k<26;k++){
-                    if(a[i][k]==1&&a[j][k]==1){
+                for(char c:map.get(i)){
+                    if(map.get(j).contains(c)){
                         check=false;
                     }
                 }
