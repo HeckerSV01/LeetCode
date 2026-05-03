@@ -185,6 +185,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HeckerSV01/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/HeckerSV01/LeetCode/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/HeckerSV01/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/HeckerSV01/LeetCode/tree/master/0796-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/HeckerSV01/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0916-word-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0916-word-subsets) |
 | [0926-find-and-replace-pattern](https://github.com/HeckerSV01/LeetCode/tree/master/0926-find-and-replace-pattern) |
@@ -729,6 +730,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/HeckerSV01/LeetCode/tree/master/0796-rotate-string) |
 ## Greedy
 |  |
 | ------- |
