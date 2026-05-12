@@ -446,6 +446,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/HeckerSV01/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -758,6 +759,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HeckerSV01/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HeckerSV01/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/HeckerSV01/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/HeckerSV01/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -1076,6 +1078,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/HeckerSV01/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HeckerSV01/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/HeckerSV01/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-arithmetic-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/HeckerSV01/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
