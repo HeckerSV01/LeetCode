@@ -516,6 +516,7 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/HeckerSV01/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HeckerSV01/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2587-design-memory-allocator](https://github.com/HeckerSV01/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2596-check-knight-tour-configuration](https://github.com/HeckerSV01/LeetCode/tree/master/2596-check-knight-tour-configuration) |
@@ -1028,6 +1029,7 @@
 | [2411-spiral-matrix-iv](https://github.com/HeckerSV01/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/HeckerSV01/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2553-separate-the-digits-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2587-design-memory-allocator](https://github.com/HeckerSV01/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2596-check-knight-tour-configuration](https://github.com/HeckerSV01/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
