@@ -456,6 +456,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HeckerSV01/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1752-arithmetic-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1752-arithmetic-subarrays) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/HeckerSV01/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/HeckerSV01/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1767-design-front-middle-back-queue](https://github.com/HeckerSV01/LeetCode/tree/master/1767-design-front-middle-back-queue) |
