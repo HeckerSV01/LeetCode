@@ -1274,6 +1274,7 @@
 | [0140-word-break-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/HeckerSV01/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/HeckerSV01/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/HeckerSV01/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/HeckerSV01/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -1454,6 +1455,7 @@
 | [0141-linked-list-cycle](https://github.com/HeckerSV01/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/HeckerSV01/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/HeckerSV01/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/HeckerSV01/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -1513,6 +1515,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HeckerSV01/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/HeckerSV01/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/HeckerSV01/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -2259,6 +2262,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HeckerSV01/LeetCode/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/HeckerSV01/LeetCode/tree/master/1582-design-browser-history) |
 | [2389-design-a-text-editor](https://github.com/HeckerSV01/LeetCode/tree/master/2389-design-a-text-editor) |
 ## Bitmask
