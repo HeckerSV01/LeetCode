@@ -1292,6 +1292,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/HeckerSV01/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0451-sort-characters-by-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/HeckerSV01/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HeckerSV01/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -1464,6 +1465,7 @@
 | [0328-odd-even-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/HeckerSV01/LeetCode/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/HeckerSV01/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0460-lfu-cache](https://github.com/HeckerSV01/LeetCode/tree/master/0460-lfu-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/HeckerSV01/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0835-linked-list-components](https://github.com/HeckerSV01/LeetCode/tree/master/0835-linked-list-components) |
@@ -1532,6 +1534,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HeckerSV01/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/HeckerSV01/LeetCode/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HeckerSV01/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0676-implement-magic-dictionary](https://github.com/HeckerSV01/LeetCode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/0677-map-sum-pairs) |
@@ -2265,6 +2268,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HeckerSV01/LeetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/HeckerSV01/LeetCode/tree/master/0460-lfu-cache) |
 | [1582-design-browser-history](https://github.com/HeckerSV01/LeetCode/tree/master/1582-design-browser-history) |
 | [2389-design-a-text-editor](https://github.com/HeckerSV01/LeetCode/tree/master/2389-design-a-text-editor) |
 ## Bitmask
