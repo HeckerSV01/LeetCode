@@ -384,6 +384,7 @@
 | [0875-koko-eating-bananas](https://github.com/HeckerSV01/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/HeckerSV01/LeetCode/tree/master/0877-stone-game) |
 | [0881-loud-and-rich](https://github.com/HeckerSV01/LeetCode/tree/master/0881-loud-and-rich) |
+| [0904-fruit-into-baskets](https://github.com/HeckerSV01/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/HeckerSV01/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0916-word-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0916-word-subsets) |
 | [0926-find-and-replace-pattern](https://github.com/HeckerSV01/LeetCode/tree/master/0926-find-and-replace-pattern) |
@@ -1312,6 +1313,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HeckerSV01/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HeckerSV01/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/HeckerSV01/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0916-word-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0916-word-subsets) |
 | [0926-find-and-replace-pattern](https://github.com/HeckerSV01/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0931-maximum-frequency-stack](https://github.com/HeckerSV01/LeetCode/tree/master/0931-maximum-frequency-stack) |
@@ -2005,6 +2007,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/HeckerSV01/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/HeckerSV01/LeetCode/tree/master/0413-arithmetic-slices) |
+| [0904-fruit-into-baskets](https://github.com/HeckerSV01/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HeckerSV01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/HeckerSV01/LeetCode/tree/master/1813-maximum-erasure-value) |
