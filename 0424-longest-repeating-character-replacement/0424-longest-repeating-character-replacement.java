@@ -8,7 +8,7 @@ class Solution {
         while(r<s.length()){
             map.put(s.charAt(r),map.getOrDefault(s.charAt(r),0)+1);
             maxFreq=Math.max(maxFreq,map.get(s.charAt(r)));
-            while(r-l+1-maxFreq>k){
+            if(r-l+1-maxFreq>k){
                 char c=s.charAt(l);
                 if(map.get(c)>1){
                     map.put(c,map.get(c)-1);
