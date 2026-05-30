@@ -221,6 +221,7 @@
 | [1894-merge-strings-alternately](https://github.com/HeckerSV01/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HeckerSV01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/HeckerSV01/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2063-vowels-of-all-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2107-find-unique-binary-string](https://github.com/HeckerSV01/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -870,6 +871,7 @@
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HeckerSV01/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/HeckerSV01/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/HeckerSV01/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeckerSV01/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/HeckerSV01/LeetCode/tree/master/2540-minimum-common-value) |
@@ -1451,6 +1453,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HeckerSV01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HeckerSV01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/HeckerSV01/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2121-intervals-between-identical-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/HeckerSV01/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2615-sum-of-distances](https://github.com/HeckerSV01/LeetCode/tree/master/2615-sum-of-distances) |
@@ -2033,6 +2036,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HeckerSV01/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/HeckerSV01/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HeckerSV01/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/HeckerSV01/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HeckerSV01/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HeckerSV01/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
