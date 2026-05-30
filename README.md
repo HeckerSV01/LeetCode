@@ -395,6 +395,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/HeckerSV01/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0916-word-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0916-word-subsets) |
 | [0926-find-and-replace-pattern](https://github.com/HeckerSV01/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [0930-binary-subarrays-with-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/HeckerSV01/LeetCode/tree/master/0934-shortest-bridge) |
 | [0947-online-election](https://github.com/HeckerSV01/LeetCode/tree/master/0947-online-election) |
@@ -1336,6 +1337,7 @@
 | [0904-fruit-into-baskets](https://github.com/HeckerSV01/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0916-word-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0916-word-subsets) |
 | [0926-find-and-replace-pattern](https://github.com/HeckerSV01/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [0930-binary-subarrays-with-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-maximum-frequency-stack](https://github.com/HeckerSV01/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0947-online-election](https://github.com/HeckerSV01/LeetCode/tree/master/0947-online-election) |
 | [0960-minimize-malware-spread](https://github.com/HeckerSV01/LeetCode/tree/master/0960-minimize-malware-spread) |
@@ -1455,6 +1457,7 @@
 | [0238-product-of-array-except-self](https://github.com/HeckerSV01/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HeckerSV01/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HeckerSV01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -2036,6 +2039,7 @@
 | [0413-arithmetic-slices](https://github.com/HeckerSV01/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/HeckerSV01/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/HeckerSV01/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HeckerSV01/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
