@@ -556,6 +556,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HeckerSV01/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HeckerSV01/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/HeckerSV01/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2834-relocate-marbles](https://github.com/HeckerSV01/LeetCode/tree/master/2834-relocate-marbles) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/HeckerSV01/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -1405,6 +1406,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HeckerSV01/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/HeckerSV01/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [2834-relocate-marbles](https://github.com/HeckerSV01/LeetCode/tree/master/2834-relocate-marbles) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -2026,6 +2028,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HeckerSV01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/HeckerSV01/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HeckerSV01/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HeckerSV01/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HeckerSV01/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Trie
