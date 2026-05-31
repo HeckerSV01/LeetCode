@@ -414,6 +414,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/HeckerSV01/LeetCode/tree/master/1048-longest-string-chain) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1052-grumpy-bookstore-owner](https://github.com/HeckerSV01/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HeckerSV01/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/HeckerSV01/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -2045,6 +2046,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HeckerSV01/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/HeckerSV01/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HeckerSV01/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HeckerSV01/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
