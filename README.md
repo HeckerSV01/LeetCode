@@ -509,6 +509,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/HeckerSV01/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2107-find-unique-binary-string](https://github.com/HeckerSV01/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2121-intervals-between-identical-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2121-intervals-between-identical-elements) |
+| [2126-destroying-asteroids](https://github.com/HeckerSV01/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-solving-questions-with-brainpower](https://github.com/HeckerSV01/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
@@ -822,6 +823,7 @@
 | [1792-maximum-average-pass-ratio](https://github.com/HeckerSV01/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2126-destroying-asteroids](https://github.com/HeckerSV01/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2285-maximum-total-importance-of-roads](https://github.com/HeckerSV01/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HeckerSV01/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -1153,6 +1155,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2092-find-all-people-with-secret](https://github.com/HeckerSV01/LeetCode/tree/master/2092-find-all-people-with-secret) |
+| [2126-destroying-asteroids](https://github.com/HeckerSV01/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/HeckerSV01/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/HeckerSV01/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2285-maximum-total-importance-of-roads](https://github.com/HeckerSV01/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
