@@ -570,6 +570,7 @@
 | [2834-relocate-marbles](https://github.com/HeckerSV01/LeetCode/tree/master/2834-relocate-marbles) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/HeckerSV01/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HeckerSV01/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/HeckerSV01/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/HeckerSV01/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HeckerSV01/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -2056,6 +2057,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HeckerSV01/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HeckerSV01/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HeckerSV01/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HeckerSV01/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HeckerSV01/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Trie
