@@ -134,6 +134,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/HeckerSV01/LeetCode/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HeckerSV01/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HeckerSV01/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HeckerSV01/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -605,6 +606,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/HeckerSV01/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HeckerSV01/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HeckerSV01/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/HeckerSV01/LeetCode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HeckerSV01/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -840,6 +842,7 @@
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HeckerSV01/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HeckerSV01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HeckerSV01/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -889,6 +892,7 @@
 | [2540-minimum-common-value](https://github.com/HeckerSV01/LeetCode/tree/master/2540-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3488-closest-equal-element-queries](https://github.com/HeckerSV01/LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HeckerSV01/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/HeckerSV01/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Recursion
@@ -1186,6 +1190,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/HeckerSV01/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HeckerSV01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HeckerSV01/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HeckerSV01/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/HeckerSV01/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
