@@ -204,6 +204,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1143-longest-common-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/HeckerSV01/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1208-get-equal-substrings-within-budget](https://github.com/HeckerSV01/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HeckerSV01/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HeckerSV01/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HeckerSV01/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -881,6 +882,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HeckerSV01/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1023-time-based-key-value-store](https://github.com/HeckerSV01/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1095-find-in-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1208-get-equal-substrings-within-budget](https://github.com/HeckerSV01/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HeckerSV01/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/HeckerSV01/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HeckerSV01/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -1480,6 +1482,7 @@
 | [0410-split-array-largest-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/HeckerSV01/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HeckerSV01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -2065,6 +2068,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/HeckerSV01/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/HeckerSV01/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
+| [1208-get-equal-substrings-within-budget](https://github.com/HeckerSV01/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HeckerSV01/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HeckerSV01/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
