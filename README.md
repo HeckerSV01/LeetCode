@@ -198,6 +198,7 @@
 | [0829-subdomain-visit-count](https://github.com/HeckerSV01/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0916-word-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0916-word-subsets) |
 | [0926-find-and-replace-pattern](https://github.com/HeckerSV01/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HeckerSV01/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1023-time-based-key-value-store](https://github.com/HeckerSV01/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/HeckerSV01/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/HeckerSV01/LeetCode/tree/master/1092-shortest-common-supersequence) |
@@ -1053,6 +1054,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HeckerSV01/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/HeckerSV01/LeetCode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/HeckerSV01/LeetCode/tree/master/1009-complement-of-base-10-integer) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HeckerSV01/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HeckerSV01/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -1368,6 +1370,7 @@
 | [0964-minimize-malware-spread-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HeckerSV01/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HeckerSV01/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HeckerSV01/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1023-time-based-key-value-store](https://github.com/HeckerSV01/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/HeckerSV01/LeetCode/tree/master/1048-longest-string-chain) |
@@ -2067,6 +2070,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HeckerSV01/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HeckerSV01/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1052-grumpy-bookstore-owner](https://github.com/HeckerSV01/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/HeckerSV01/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
