@@ -323,6 +323,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/HeckerSV01/LeetCode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/HeckerSV01/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/HeckerSV01/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -657,6 +658,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HeckerSV01/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/HeckerSV01/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/HeckerSV01/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HeckerSV01/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/HeckerSV01/LeetCode/tree/master/0312-burst-balloons) |
@@ -941,6 +943,7 @@
 | [0085-maximal-rectangle](https://github.com/HeckerSV01/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/HeckerSV01/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HeckerSV01/LeetCode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/HeckerSV01/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/HeckerSV01/LeetCode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HeckerSV01/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
