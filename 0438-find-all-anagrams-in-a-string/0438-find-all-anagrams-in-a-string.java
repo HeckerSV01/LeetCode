@@ -1,7 +1,7 @@
 class Solution {
-    private boolean isAnagram(String s,int sfreq[],int pfreq[]){
-        for(char c:s.toCharArray()){
-            if(pfreq[c-'a']!=sfreq[c-'a']){
+    private boolean isAnagram(int sfreq[],int pfreq[]){
+        for(int i=0;i<26;i++){
+            if(pfreq[i]!=sfreq[i]){
                 return false;
             }
         }
@@ -22,7 +22,7 @@ class Solution {
         for(int i=l;i<=r;i++){
             sfreq[s.charAt(i)-'a']++;
         }
-        if(isAnagram(s.substring(l,r+1),sfreq,pfreq)){
+        if(isAnagram(sfreq,pfreq)){
             res.add(l);
         }
         while(r<s.length()-1){
@@ -30,7 +30,7 @@ class Solution {
             l++;
             r++;
             sfreq[s.charAt(r)-'a']++;
-            if(isAnagram(s.substring(l,r+1),sfreq,pfreq)){
+            if(isAnagram(sfreq,pfreq)){
                 res.add(l);
             }
         }
