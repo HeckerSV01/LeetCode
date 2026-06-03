@@ -228,6 +228,7 @@
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/HeckerSV01/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1894-merge-strings-alternately](https://github.com/HeckerSV01/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HeckerSV01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/HeckerSV01/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HeckerSV01/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2063-vowels-of-all-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
@@ -780,6 +781,7 @@
 | [1552-build-an-array-with-stack-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-design-browser-history](https://github.com/HeckerSV01/LeetCode/tree/master/1582-design-browser-history) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/HeckerSV01/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2104-sum-of-subarray-ranges](https://github.com/HeckerSV01/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HeckerSV01/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -1110,6 +1112,7 @@
 | [1552-build-an-array-with-stack-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/HeckerSV01/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/HeckerSV01/LeetCode/tree/master/1803-average-waiting-time) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/HeckerSV01/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HeckerSV01/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/HeckerSV01/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/HeckerSV01/LeetCode/tree/master/2058-concatenation-of-array) |
