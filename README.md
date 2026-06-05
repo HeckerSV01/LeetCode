@@ -377,6 +377,7 @@
 | [0539-minimum-time-difference](https://github.com/HeckerSV01/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0542-01-matrix) |
+| [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
 | [0648-replace-words](https://github.com/HeckerSV01/LeetCode/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -690,6 +691,7 @@
 | [0518-coin-change-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/HeckerSV01/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/HeckerSV01/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HeckerSV01/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1070,6 +1072,7 @@
 | [0342-power-of-four](https://github.com/HeckerSV01/LeetCode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/HeckerSV01/LeetCode/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/HeckerSV01/LeetCode/tree/master/0461-hamming-distance) |
+| [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/HeckerSV01/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HeckerSV01/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/HeckerSV01/LeetCode/tree/master/0868-binary-gap) |
@@ -1097,6 +1100,7 @@
 | [0139-word-break](https://github.com/HeckerSV01/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/HeckerSV01/LeetCode/tree/master/0397-integer-replacement) |
+| [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/HeckerSV01/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1575-count-all-possible-routes](https://github.com/HeckerSV01/LeetCode/tree/master/1575-count-all-possible-routes) |
@@ -1600,6 +1604,7 @@
 | [0140-word-break-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0494-target-sum) |
+| [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
 | [0813-all-paths-from-source-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1947-maximum-compatibility-score-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
@@ -2395,6 +2400,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1947-maximum-compatibility-score-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 ## Enumeration
