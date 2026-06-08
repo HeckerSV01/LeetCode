@@ -126,6 +126,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HeckerSV01/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/HeckerSV01/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/HeckerSV01/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HeckerSV01/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -533,6 +534,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-solving-questions-with-brainpower](https://github.com/HeckerSV01/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HeckerSV01/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/HeckerSV01/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/HeckerSV01/LeetCode/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HeckerSV01/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HeckerSV01/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -1133,6 +1135,7 @@
 | [2048-build-array-from-permutation](https://github.com/HeckerSV01/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/HeckerSV01/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/HeckerSV01/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/HeckerSV01/LeetCode/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HeckerSV01/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HeckerSV01/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
