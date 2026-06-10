@@ -490,6 +490,7 @@
 | [1582-design-browser-history](https://github.com/HeckerSV01/LeetCode/tree/master/1582-design-browser-history) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/HeckerSV01/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/HeckerSV01/LeetCode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -856,6 +857,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HeckerSV01/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HeckerSV01/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/HeckerSV01/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/HeckerSV01/LeetCode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -1004,6 +1006,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-subrectangle-queries](https://github.com/HeckerSV01/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/HeckerSV01/LeetCode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/HeckerSV01/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1791-richest-customer-wealth](https://github.com/HeckerSV01/LeetCode/tree/master/1791-richest-customer-wealth) |
