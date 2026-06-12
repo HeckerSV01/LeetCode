@@ -509,6 +509,7 @@
 | [1792-maximum-average-pass-ratio](https://github.com/HeckerSV01/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1803-average-waiting-time](https://github.com/HeckerSV01/LeetCode/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/HeckerSV01/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1833-maximum-ice-cream-bars](https://github.com/HeckerSV01/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HeckerSV01/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HeckerSV01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -868,6 +869,7 @@
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/HeckerSV01/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1792-maximum-average-pass-ratio](https://github.com/HeckerSV01/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/HeckerSV01/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/HeckerSV01/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HeckerSV01/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1214,6 +1216,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-arithmetic-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/HeckerSV01/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1833-maximum-ice-cream-bars](https://github.com/HeckerSV01/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HeckerSV01/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1333,6 +1336,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/HeckerSV01/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/HeckerSV01/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HeckerSV01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/HeckerSV01/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
