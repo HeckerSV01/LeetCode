@@ -135,6 +135,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/HeckerSV01/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeckerSV01/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/HeckerSV01/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/HeckerSV01/LeetCode/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HeckerSV01/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -250,6 +251,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2429-design-a-food-rating-system](https://github.com/HeckerSV01/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/HeckerSV01/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2833-furthest-point-from-origin](https://github.com/HeckerSV01/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2887-sort-vowels-in-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -876,6 +878,7 @@
 | [2285-maximum-total-importance-of-roads](https://github.com/HeckerSV01/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HeckerSV01/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/HeckerSV01/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
