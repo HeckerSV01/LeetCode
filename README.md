@@ -80,6 +80,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HeckerSV01/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HeckerSV01/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3567-convert-date-to-binary](https://github.com/HeckerSV01/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1775,6 +1776,7 @@
 | [2641-cousins-in-binary-tree-ii](https://github.com/HeckerSV01/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HeckerSV01/LeetCode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HeckerSV01/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1906,6 +1908,7 @@
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HeckerSV01/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/HeckerSV01/LeetCode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HeckerSV01/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3729-unit-conversion-i](https://github.com/HeckerSV01/LeetCode/tree/master/3729-unit-conversion-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/HeckerSV01/LeetCode/tree/master/3863-power-grid-maintenance) |
