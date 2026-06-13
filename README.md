@@ -221,6 +221,7 @@
 | [1366-rank-teams-by-votes](https://github.com/HeckerSV01/LeetCode/tree/master/1366-rank-teams-by-votes) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/HeckerSV01/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HeckerSV01/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/HeckerSV01/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-design-underground-system](https://github.com/HeckerSV01/LeetCode/tree/master/1512-design-underground-system) |
@@ -862,6 +863,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1402-reducing-dishes](https://github.com/HeckerSV01/LeetCode/tree/master/1402-reducing-dishes) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HeckerSV01/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/HeckerSV01/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1448-maximum-69-number](https://github.com/HeckerSV01/LeetCode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/HeckerSV01/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HeckerSV01/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -1213,6 +1215,7 @@
 | [1387-sort-integers-by-the-power-value](https://github.com/HeckerSV01/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1402-reducing-dishes](https://github.com/HeckerSV01/LeetCode/tree/master/1402-reducing-dishes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HeckerSV01/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/HeckerSV01/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/HeckerSV01/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1464-reduce-array-size-to-the-half](https://github.com/HeckerSV01/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/HeckerSV01/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
