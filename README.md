@@ -432,6 +432,7 @@
 | [0960-minimize-malware-spread](https://github.com/HeckerSV01/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HeckerSV01/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0964-minimize-malware-spread-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
+| [0980-unique-paths-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/HeckerSV01/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HeckerSV01/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -1012,6 +1013,7 @@
 | [0854-making-a-large-island](https://github.com/HeckerSV01/LeetCode/tree/master/0854-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/HeckerSV01/LeetCode/tree/master/0934-shortest-bridge) |
+| [0980-unique-paths-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/HeckerSV01/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/HeckerSV01/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/HeckerSV01/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
@@ -1108,6 +1110,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/HeckerSV01/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HeckerSV01/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/HeckerSV01/LeetCode/tree/master/0868-binary-gap) |
+| [0980-unique-paths-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1009-complement-of-base-10-integer](https://github.com/HeckerSV01/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HeckerSV01/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HeckerSV01/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -1650,6 +1653,7 @@
 | [0494-target-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
 | [0813-all-paths-from-source-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [0980-unique-paths-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1079-letter-tile-possibilities](https://github.com/HeckerSV01/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HeckerSV01/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
