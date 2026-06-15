@@ -566,6 +566,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/HeckerSV01/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/HeckerSV01/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2305-fair-distribution-of-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HeckerSV01/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -769,6 +770,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HeckerSV01/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2140-solving-questions-with-brainpower](https://github.com/HeckerSV01/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2305-fair-distribution-of-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/HeckerSV01/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/HeckerSV01/LeetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
@@ -1130,6 +1132,7 @@
 | [1947-maximum-compatibility-score-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/HeckerSV01/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2305-fair-distribution-of-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/HeckerSV01/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -1677,6 +1680,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2107-find-unique-binary-string](https://github.com/HeckerSV01/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HeckerSV01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2305-fair-distribution-of-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HeckerSV01/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HeckerSV01/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Design
@@ -2474,6 +2478,7 @@
 | [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1947-maximum-compatibility-score-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
+| [2305-fair-distribution-of-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 ## Enumeration
 |  |
 | ------- |
