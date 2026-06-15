@@ -41,6 +41,7 @@
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1227-airplane-seat-assignment-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/HeckerSV01/LeetCode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HeckerSV01/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/HeckerSV01/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
@@ -1121,6 +1122,7 @@
 | [0980-unique-paths-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1009-complement-of-base-10-integer](https://github.com/HeckerSV01/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HeckerSV01/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/HeckerSV01/LeetCode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HeckerSV01/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -1668,6 +1670,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1079-letter-tile-possibilities](https://github.com/HeckerSV01/LeetCode/tree/master/1079-letter-tile-possibilities) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/HeckerSV01/LeetCode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HeckerSV01/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1947-maximum-compatibility-score-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
