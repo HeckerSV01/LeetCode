@@ -128,6 +128,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HeckerSV01/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/HeckerSV01/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HeckerSV01/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -1622,6 +1623,7 @@
 | [1582-design-browser-history](https://github.com/HeckerSV01/LeetCode/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/HeckerSV01/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 | [1767-design-front-middle-back-queue](https://github.com/HeckerSV01/LeetCode/tree/master/1767-design-front-middle-back-queue) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HeckerSV01/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
