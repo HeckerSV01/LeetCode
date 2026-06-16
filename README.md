@@ -62,6 +62,7 @@
 | [2050-count-good-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/2050-count-good-numbers) |
 | [2063-vowels-of-all-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HeckerSV01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/HeckerSV01/LeetCode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HeckerSV01/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HeckerSV01/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/HeckerSV01/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -901,6 +902,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/HeckerSV01/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HeckerSV01/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/HeckerSV01/LeetCode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2285-maximum-total-importance-of-roads](https://github.com/HeckerSV01/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HeckerSV01/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -1703,6 +1705,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2107-find-unique-binary-string](https://github.com/HeckerSV01/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HeckerSV01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/HeckerSV01/LeetCode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2305-fair-distribution-of-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HeckerSV01/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HeckerSV01/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
