@@ -393,6 +393,7 @@
 | [0498-diagonal-traverse](https://github.com/HeckerSV01/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/HeckerSV01/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0529-minesweeper](https://github.com/HeckerSV01/LeetCode/tree/master/0529-minesweeper) |
 | [0539-minimum-time-difference](https://github.com/HeckerSV01/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -720,6 +721,7 @@
 | [0494-target-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/HeckerSV01/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/HeckerSV01/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
@@ -1121,6 +1123,7 @@
 | [0342-power-of-four](https://github.com/HeckerSV01/LeetCode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/HeckerSV01/LeetCode/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/HeckerSV01/LeetCode/tree/master/0461-hamming-distance) |
+| [0526-beautiful-arrangement](https://github.com/HeckerSV01/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/HeckerSV01/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HeckerSV01/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1676,6 +1679,7 @@
 | [0140-word-break-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/HeckerSV01/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
 | [0773-sliding-puzzle](https://github.com/HeckerSV01/LeetCode/tree/master/0773-sliding-puzzle) |
 | [0784-letter-case-permutation](https://github.com/HeckerSV01/LeetCode/tree/master/0784-letter-case-permutation) |
@@ -2486,6 +2490,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/HeckerSV01/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1947-maximum-compatibility-score-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
