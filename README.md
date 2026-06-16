@@ -203,6 +203,7 @@
 | [0692-top-k-frequent-words](https://github.com/HeckerSV01/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HeckerSV01/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/HeckerSV01/LeetCode/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/HeckerSV01/LeetCode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/HeckerSV01/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/HeckerSV01/LeetCode/tree/master/0784-letter-case-permutation) |
@@ -1128,6 +1129,7 @@
 | [0526-beautiful-arrangement](https://github.com/HeckerSV01/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/HeckerSV01/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0756-pyramid-transition-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HeckerSV01/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0784-letter-case-permutation](https://github.com/HeckerSV01/LeetCode/tree/master/0784-letter-case-permutation) |
 | [0868-binary-gap](https://github.com/HeckerSV01/LeetCode/tree/master/0868-binary-gap) |
@@ -1449,6 +1451,7 @@
 | [0690-employee-importance](https://github.com/HeckerSV01/LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/HeckerSV01/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/HeckerSV01/LeetCode/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/HeckerSV01/LeetCode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/HeckerSV01/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0829-subdomain-visit-count](https://github.com/HeckerSV01/LeetCode/tree/master/0829-subdomain-visit-count) |
@@ -1685,6 +1688,7 @@
 | [0494-target-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/HeckerSV01/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
+| [0756-pyramid-transition-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0773-sliding-puzzle](https://github.com/HeckerSV01/LeetCode/tree/master/0773-sliding-puzzle) |
 | [0784-letter-case-permutation](https://github.com/HeckerSV01/LeetCode/tree/master/0784-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
