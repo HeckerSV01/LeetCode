@@ -301,6 +301,7 @@
 | [0042-trapping-rain-water](https://github.com/HeckerSV01/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/HeckerSV01/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/HeckerSV01/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/HeckerSV01/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/HeckerSV01/LeetCode/tree/master/0051-n-queens) |
@@ -1207,6 +1208,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/HeckerSV01/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HeckerSV01/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HeckerSV01/LeetCode/tree/master/0075-sort-colors) |
@@ -1658,6 +1660,7 @@
 | [0039-combination-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/HeckerSV01/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/HeckerSV01/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/HeckerSV01/LeetCode/tree/master/0077-combinations) |
