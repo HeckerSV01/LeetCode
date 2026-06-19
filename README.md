@@ -523,6 +523,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HeckerSV01/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1732-find-the-highest-altitude](https://github.com/HeckerSV01/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-arithmetic-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HeckerSV01/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -1599,6 +1600,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HeckerSV01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1732-find-the-highest-altitude](https://github.com/HeckerSV01/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HeckerSV01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HeckerSV01/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2121-intervals-between-identical-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2121-intervals-between-identical-elements) |
