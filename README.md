@@ -28,6 +28,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HeckerSV01/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/HeckerSV01/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/HeckerSV01/LeetCode/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/HeckerSV01/LeetCode/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/HeckerSV01/LeetCode/tree/master/0398-random-pick-index) |
 | [0447-number-of-boomerangs](https://github.com/HeckerSV01/LeetCode/tree/master/0447-number-of-boomerangs) |
@@ -998,6 +999,7 @@
 | [0273-integer-to-english-words](https://github.com/HeckerSV01/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/HeckerSV01/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HeckerSV01/LeetCode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/HeckerSV01/LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/HeckerSV01/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HeckerSV01/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
