@@ -1995,6 +1995,7 @@
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/HeckerSV01/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HeckerSV01/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HeckerSV01/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HeckerSV01/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HeckerSV01/LeetCode/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HeckerSV01/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -2109,6 +2110,7 @@
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HeckerSV01/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/HeckerSV01/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HeckerSV01/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HeckerSV01/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HeckerSV01/LeetCode/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/HeckerSV01/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -2542,6 +2544,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HeckerSV01/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/HeckerSV01/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/HeckerSV01/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -2576,6 +2579,7 @@
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HeckerSV01/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Monotonic Queue
 |  |
 | ------- |
