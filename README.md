@@ -478,6 +478,7 @@
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HeckerSV01/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/HeckerSV01/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/HeckerSV01/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1306-jump-game-iii) |
 | [1310-watering-plants](https://github.com/HeckerSV01/LeetCode/tree/master/1310-watering-plants) |
 | [1325-path-with-maximum-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -764,6 +765,7 @@
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1227-airplane-seat-assignment-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/HeckerSV01/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HeckerSV01/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1340-jump-game-v](https://github.com/HeckerSV01/LeetCode/tree/master/1340-jump-game-v) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/HeckerSV01/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
@@ -1050,6 +1052,7 @@
 | [1219-path-with-maximum-gold](https://github.com/HeckerSV01/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1267-count-servers-that-communicate](https://github.com/HeckerSV01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/HeckerSV01/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1380-number-of-closed-islands](https://github.com/HeckerSV01/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1463-cherry-pickup-ii) |
