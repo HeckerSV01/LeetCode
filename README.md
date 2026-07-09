@@ -664,6 +664,7 @@
 | [3488-closest-equal-element-queries](https://github.com/HeckerSV01/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/HeckerSV01/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -983,6 +984,7 @@
 | [2540-minimum-common-value](https://github.com/HeckerSV01/LeetCode/tree/master/2540-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3488-closest-equal-element-queries](https://github.com/HeckerSV01/LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HeckerSV01/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -1590,6 +1592,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HeckerSV01/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3488-closest-equal-element-queries](https://github.com/HeckerSV01/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/HeckerSV01/LeetCode/tree/master/3678-design-task-manager) |
 | [3707-find-the-most-common-response](https://github.com/HeckerSV01/LeetCode/tree/master/3707-find-the-most-common-response) |
@@ -2553,6 +2556,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HeckerSV01/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/HeckerSV01/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/HeckerSV01/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Database
 |  |
@@ -2586,6 +2590,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HeckerSV01/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Monotonic Queue
 |  |
 | ------- |
