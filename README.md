@@ -380,6 +380,7 @@
 | [0312-burst-balloons](https://github.com/HeckerSV01/LeetCode/tree/master/0312-burst-balloons) |
 | [0318-maximum-product-of-word-lengths](https://github.com/HeckerSV01/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/HeckerSV01/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0336-palindrome-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/HeckerSV01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/HeckerSV01/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -731,6 +732,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HeckerSV01/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/HeckerSV01/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/HeckerSV01/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/HeckerSV01/LeetCode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/HeckerSV01/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0376-wiggle-subsequence) |
@@ -1041,6 +1043,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/HeckerSV01/LeetCode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HeckerSV01/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HeckerSV01/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/HeckerSV01/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -1188,6 +1191,7 @@
 | [0070-climbing-stairs](https://github.com/HeckerSV01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/HeckerSV01/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0140-word-break-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/HeckerSV01/LeetCode/tree/master/0397-integer-replacement) |
 | [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
 | [0773-sliding-puzzle](https://github.com/HeckerSV01/LeetCode/tree/master/0773-sliding-puzzle) |
@@ -1931,6 +1935,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/HeckerSV01/LeetCode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HeckerSV01/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/HeckerSV01/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -2059,6 +2064,7 @@
 | [0210-course-schedule-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/HeckerSV01/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/HeckerSV01/LeetCode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HeckerSV01/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/HeckerSV01/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -2502,6 +2508,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/HeckerSV01/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/HeckerSV01/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/HeckerSV01/LeetCode/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HeckerSV01/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -2571,6 +2578,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HeckerSV01/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/HeckerSV01/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
