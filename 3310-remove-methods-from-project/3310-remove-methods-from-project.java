@@ -1,8 +1,8 @@
 class Solution {
-    private void dfs(List<List<Integer>> adj,int node,boolean isSus[]){
-        isSus[node]=true;
+    private void dfs(List<List<Integer>> adj,int node,HashSet<Integer> isSus){
+        isSus.add(node);
         for(int k:adj.get(node)){
-            if(!isSus[k]){
+            if(!isSus.contains(k)){
                 dfs(adj,k,isSus);
             }
         }
@@ -20,23 +20,21 @@ class Solution {
             revadj.get(i[1]).add(i[0]);
             indeg[i[1]]++;
         }
-        boolean isSus[]=new boolean[n];
+        HashSet<Integer> isSus=new HashSet<>();
         dfs(adj,k,isSus);
         boolean check=true;
-        for(int i=0;i<n;i++){
-            if(isSus[i]){
-                for(int m:revadj.get(i)){
-                    if(!isSus[m]){
-                        check=false;
-                        break;
-                    }
+        for(int i:isSus){
+            for(int m:revadj.get(i)){
+                if(!isSus.contains(m)){
+                    check=false;
+                    break;
                 }
             }
         }
         List<Integer> res=new ArrayList<>();
         if(check){
             for(int i=0;i<n;i++){
-                if(!isSus[i]){
+                if(!isSus.contains(i)){
                     res.add(i);
                 }
             }
