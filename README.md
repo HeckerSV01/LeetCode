@@ -2074,6 +2074,7 @@
 | [2641-cousins-in-binary-tree-ii](https://github.com/HeckerSV01/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HeckerSV01/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/HeckerSV01/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HeckerSV01/LeetCode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HeckerSV01/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
@@ -2193,6 +2194,7 @@
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/HeckerSV01/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/HeckerSV01/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/HeckerSV01/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HeckerSV01/LeetCode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HeckerSV01/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
@@ -2626,6 +2628,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HeckerSV01/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/HeckerSV01/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/HeckerSV01/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/HeckerSV01/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Database
