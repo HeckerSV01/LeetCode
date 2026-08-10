@@ -41,6 +41,7 @@
 | [0915-generate-random-point-in-a-circle](https://github.com/HeckerSV01/LeetCode/tree/master/0915-generate-random-point-in-a-circle) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/HeckerSV01/LeetCode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -492,6 +493,7 @@
 | [1095-find-in-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1117-as-far-from-land-as-possible](https://github.com/HeckerSV01/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/HeckerSV01/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1140-stone-game-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1140-stone-game-ii) |
 | [1169-largest-values-from-labels](https://github.com/HeckerSV01/LeetCode/tree/master/1169-largest-values-from-labels) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/HeckerSV01/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -795,6 +797,7 @@
 | [1092-shortest-common-supersequence](https://github.com/HeckerSV01/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1117-as-far-from-land-as-possible](https://github.com/HeckerSV01/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/HeckerSV01/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1140-stone-game-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1227-airplane-seat-assignment-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
@@ -1682,6 +1685,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/HeckerSV01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1140-stone-game-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/HeckerSV01/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HeckerSV01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -2654,6 +2658,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/HeckerSV01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/HeckerSV01/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HeckerSV01/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Probability and Statistics
@@ -2675,9 +2680,11 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
