@@ -291,6 +291,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HeckerSV01/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HeckerSV01/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/HeckerSV01/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HeckerSV01/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3194-find-words-containing-character](https://github.com/HeckerSV01/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -1655,6 +1656,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HeckerSV01/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HeckerSV01/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/HeckerSV01/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HeckerSV01/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HeckerSV01/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -2340,6 +2342,7 @@
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HeckerSV01/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HeckerSV01/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/HeckerSV01/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HeckerSV01/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/HeckerSV01/LeetCode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HeckerSV01/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
