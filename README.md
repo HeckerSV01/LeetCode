@@ -143,6 +143,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HeckerSV01/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/HeckerSV01/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HeckerSV01/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -269,6 +270,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HeckerSV01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/HeckerSV01/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HeckerSV01/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HeckerSV01/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HeckerSV01/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2063-vowels-of-all-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
@@ -886,6 +888,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/HeckerSV01/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/HeckerSV01/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HeckerSV01/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/HeckerSV01/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -963,6 +966,7 @@
 | [1792-maximum-average-pass-ratio](https://github.com/HeckerSV01/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/HeckerSV01/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HeckerSV01/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/HeckerSV01/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HeckerSV01/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -2711,4 +2715,8 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1406-stone-game-iii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HeckerSV01/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
