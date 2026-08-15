@@ -139,6 +139,7 @@
 | [0763-partition-labels](https://github.com/HeckerSV01/LeetCode/tree/master/0763-partition-labels) |
 | [0845-longest-mountain-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0969-pancake-sorting](https://github.com/HeckerSV01/LeetCode/tree/master/0969-pancake-sorting) |
 | [1048-longest-string-chain](https://github.com/HeckerSV01/LeetCode/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HeckerSV01/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -480,6 +481,7 @@
 | [0960-minimize-malware-spread](https://github.com/HeckerSV01/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HeckerSV01/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0964-minimize-malware-spread-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
+| [0969-pancake-sorting](https://github.com/HeckerSV01/LeetCode/tree/master/0969-pancake-sorting) |
 | [0980-unique-paths-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/HeckerSV01/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HeckerSV01/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -945,6 +947,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HeckerSV01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/HeckerSV01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0969-pancake-sorting](https://github.com/HeckerSV01/LeetCode/tree/master/0969-pancake-sorting) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/HeckerSV01/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1169-largest-values-from-labels](https://github.com/HeckerSV01/LeetCode/tree/master/1169-largest-values-from-labels) |
 | [1285-balance-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
@@ -1328,6 +1331,7 @@
 | [0721-accounts-merge](https://github.com/HeckerSV01/LeetCode/tree/master/0721-accounts-merge) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/HeckerSV01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
+| [0969-pancake-sorting](https://github.com/HeckerSV01/LeetCode/tree/master/0969-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/HeckerSV01/LeetCode/tree/master/1048-longest-string-chain) |
