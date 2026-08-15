@@ -713,6 +713,7 @@
 | [3637-trionic-array-i](https://github.com/HeckerSV01/LeetCode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HeckerSV01/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3693-climbing-stairs-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3693-climbing-stairs-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HeckerSV01/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3707-find-the-most-common-response](https://github.com/HeckerSV01/LeetCode/tree/master/3707-find-the-most-common-response) |
 | [3719-longest-balanced-subarray-i](https://github.com/HeckerSV01/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/HeckerSV01/LeetCode/tree/master/3731-find-missing-elements) |
@@ -1234,6 +1235,7 @@
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HeckerSV01/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HeckerSV01/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HeckerSV01/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Memoization
 |  |
 | ------- |
