@@ -278,6 +278,7 @@
 | [2107-find-unique-binary-string](https://github.com/HeckerSV01/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2182-construct-string-with-repeat-limit](https://github.com/HeckerSV01/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HeckerSV01/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2285-design-bitset](https://github.com/HeckerSV01/LeetCode/tree/master/2285-design-bitset) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/HeckerSV01/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -975,6 +976,7 @@
 | [2126-destroying-asteroids](https://github.com/HeckerSV01/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HeckerSV01/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/HeckerSV01/LeetCode/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2182-construct-string-with-repeat-limit](https://github.com/HeckerSV01/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2285-maximum-total-importance-of-roads](https://github.com/HeckerSV01/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/HeckerSV01/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -1426,6 +1428,7 @@
 | [1792-maximum-average-pass-ratio](https://github.com/HeckerSV01/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1845-seat-reservation-manager](https://github.com/HeckerSV01/LeetCode/tree/master/1845-seat-reservation-manager) |
 | [2023-design-movie-rental-system](https://github.com/HeckerSV01/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2182-construct-string-with-repeat-limit](https://github.com/HeckerSV01/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/HeckerSV01/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
 | [2285-maximum-total-importance-of-roads](https://github.com/HeckerSV01/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/HeckerSV01/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -1495,6 +1498,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/HeckerSV01/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HeckerSV01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2182-construct-string-with-repeat-limit](https://github.com/HeckerSV01/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/HeckerSV01/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2378-sender-with-largest-word-count](https://github.com/HeckerSV01/LeetCode/tree/master/2378-sender-with-largest-word-count) |
@@ -1631,6 +1635,7 @@
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2169-simple-bank-system](https://github.com/HeckerSV01/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HeckerSV01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2182-construct-string-with-repeat-limit](https://github.com/HeckerSV01/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HeckerSV01/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/HeckerSV01/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/HeckerSV01/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
