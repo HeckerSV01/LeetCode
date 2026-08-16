@@ -4,7 +4,7 @@ class Solution {
         for(char c:s.toCharArray()){
             freq[c-'a']++;
         }
-        String res="";
+        StringBuilder sb=new StringBuilder();
         boolean noreps=true;
         int idx=26;
         for(int i=25;i>=0;i--){
@@ -19,15 +19,15 @@ class Solution {
                     freq[i]=0;
                     noreps=true;
                 }
-                res=res+String.valueOf((char)(i+97)).repeat(rep);
+                sb.repeat((char)(i+97),rep);
                 }else{
-                    res=res+String.valueOf((char)(i+97));
+                    sb.append((char)(i+97));
                     freq[i]=freq[i]-1;
                     noreps=true;
                     i=idx+1;
                 } 
             }
         }
-        return res;
+        return sb.toString();
     }
 }
