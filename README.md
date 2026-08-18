@@ -704,6 +704,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HeckerSV01/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HeckerSV01/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HeckerSV01/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/HeckerSV01/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HeckerSV01/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3488-closest-equal-element-queries](https://github.com/HeckerSV01/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1691,6 +1692,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HeckerSV01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HeckerSV01/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/HeckerSV01/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/HeckerSV01/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
