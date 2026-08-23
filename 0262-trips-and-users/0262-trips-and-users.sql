@@ -1,9 +1,6 @@
 # Write your MySQL query statement below
-SELECT t.request_at AS Day, ROUND(
-        SUM(t.status IN ('cancelled_by_driver', 'cancelled_by_client')) 
-        / COUNT(*),
-        2
-    ) AS `Cancellation Rate`
+SELECT t.request_at AS Day, ROUND(SUM(t.status IN ('cancelled_by_driver', 'cancelled_by_client')) / COUNT(*),2
+) AS `Cancellation Rate`
 FROM
 Trips t LEFT JOIN Users c
 ON t.client_id=c.users_id 
