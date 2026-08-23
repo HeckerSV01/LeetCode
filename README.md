@@ -2692,6 +2692,7 @@
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/HeckerSV01/LeetCode/tree/master/0177-nth-highest-salary) |
+| [0262-trips-and-users](https://github.com/HeckerSV01/LeetCode/tree/master/0262-trips-and-users) |
 ## Segment Tree
 |  |
 | ------- |
