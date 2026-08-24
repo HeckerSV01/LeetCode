@@ -61,6 +61,7 @@
 | [1641-count-sorted-vowel-strings](https://github.com/HeckerSV01/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1642-water-bottles](https://github.com/HeckerSV01/LeetCode/tree/master/1642-water-bottles) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1872-stone-game-viii](https://github.com/HeckerSV01/LeetCode/tree/master/1872-stone-game-viii) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/HeckerSV01/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HeckerSV01/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HeckerSV01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -585,6 +586,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/HeckerSV01/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HeckerSV01/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1872-stone-game-viii](https://github.com/HeckerSV01/LeetCode/tree/master/1872-stone-game-viii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HeckerSV01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1901-find-a-peak-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -844,6 +846,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1641-count-sorted-vowel-strings](https://github.com/HeckerSV01/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1872-stone-game-viii](https://github.com/HeckerSV01/LeetCode/tree/master/1872-stone-game-viii) |
 | [1947-maximum-compatibility-score-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HeckerSV01/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1741,6 +1744,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HeckerSV01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/HeckerSV01/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/HeckerSV01/LeetCode/tree/master/1872-stone-game-viii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HeckerSV01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HeckerSV01/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2121-intervals-between-identical-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2121-intervals-between-identical-elements) |
@@ -2714,6 +2718,7 @@
 | [1406-stone-game-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HeckerSV01/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/HeckerSV01/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/HeckerSV01/LeetCode/tree/master/1872-stone-game-viii) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -2735,11 +2740,13 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/HeckerSV01/LeetCode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/HeckerSV01/LeetCode/tree/master/1872-stone-game-viii) |
 ## Bracket Sequences
 |  |
 | ------- |
