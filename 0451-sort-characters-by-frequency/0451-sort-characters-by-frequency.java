@@ -1,26 +1,35 @@
-class Solution {
+class Element { 
+    char val; 
+    int freq; 
+    
+    public Element(char val, int freq) { 
+        this.val = val; 
+        this.freq = freq; 
+    } 
+}
+
+class Solution { 
     public String frequencySort(String s) {
-        HashMap<Character,Integer> map=new HashMap<>();
-        for(int i=0;i<s.length();i++)
-        {
-            char ch=s.charAt(i);
-            map.put(ch,map.getOrDefault(ch,0)+1);
+        // Use a map to support all characters (uppercase, symbols, etc.)
+        Map<Character, Integer> counts = new HashMap<>();
+        for (char c : s.toCharArray()) {
+            counts.put(c, counts.getOrDefault(c, 0) + 1);
         }
-        List<Map.Entry<Character,Integer>> list=new LinkedList<Map.Entry<Character,Integer>>(map.entrySet());
-        Collections.sort(list,new Comparator<Map.Entry<Character,Integer>>() {
-            public int compare(Map.Entry<Character,Integer> o1,Map.Entry<Character,Integer> o2) {
-            return o2.getValue()-o1.getValue(); 
-    }
-    });
-        HashMap<Character,Integer> temp=new LinkedHashMap<Character,Integer>();
-        for (Map.Entry<Character,Integer> aa:list) {
-            temp.put(aa.getKey(),aa.getValue());
+        
+        // Max-heap: Sort by frequency in descending order (b.freq - a.freq)
+        PriorityQueue<Element> pq = new PriorityQueue<>((a, b) -> b.freq - a.freq);
+        
+        for (Map.Entry<Character, Integer> entry : counts.entrySet()) {
+            pq.offer(new Element(entry.getKey(), entry.getValue()));
         }
-         StringBuilder res=new StringBuilder();
-        for(Character key:temp.keySet())
-        {
-            res.append(String.valueOf(key).repeat(temp.get(key)));
+        
+        // Build the final string
+        StringBuilder sb = new StringBuilder();
+        while (!pq.isEmpty()) {
+            Element e = pq.poll();
+            sb.append(String.valueOf(e.val).repeat(e.freq));
         }
-        return res.toString();
-    }
+        
+        return sb.toString();
+    } 
 }
