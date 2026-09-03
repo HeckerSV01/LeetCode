@@ -167,6 +167,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HeckerSV01/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/HeckerSV01/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## String
 |  |
 | ------- |
@@ -746,6 +747,7 @@
 | [3863-power-grid-maintenance](https://github.com/HeckerSV01/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HeckerSV01/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/HeckerSV01/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1015,6 +1017,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HeckerSV01/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HeckerSV01/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/HeckerSV01/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -1425,6 +1428,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/HeckerSV01/LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/HeckerSV01/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
