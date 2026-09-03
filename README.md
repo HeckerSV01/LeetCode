@@ -472,6 +472,7 @@
 | [0854-making-a-large-island](https://github.com/HeckerSV01/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/HeckerSV01/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/HeckerSV01/LeetCode/tree/master/0860-design-circular-queue) |
+| [0860-lemonade-change](https://github.com/HeckerSV01/LeetCode/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0875-koko-eating-bananas](https://github.com/HeckerSV01/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/HeckerSV01/LeetCode/tree/master/0877-stone-game) |
@@ -962,6 +963,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HeckerSV01/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/HeckerSV01/LeetCode/tree/master/0763-partition-labels) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/HeckerSV01/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0860-lemonade-change](https://github.com/HeckerSV01/LeetCode/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HeckerSV01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/HeckerSV01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
