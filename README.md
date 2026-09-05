@@ -752,6 +752,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HeckerSV01/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/HeckerSV01/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/HeckerSV01/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Dynamic Programming
 |  |
@@ -1794,6 +1795,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/HeckerSV01/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/HeckerSV01/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
 |  |
 | ------- |
