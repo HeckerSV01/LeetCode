@@ -138,6 +138,7 @@
 | [0455-assign-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/0455-assign-cookies) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/HeckerSV01/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0611-valid-triangle-number](https://github.com/HeckerSV01/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/HeckerSV01/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/HeckerSV01/LeetCode/tree/master/0763-partition-labels) |
@@ -445,6 +446,7 @@
 | [0539-minimum-time-difference](https://github.com/HeckerSV01/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0542-01-matrix) |
+| [0611-valid-triangle-number](https://github.com/HeckerSV01/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
 | [0648-replace-words](https://github.com/HeckerSV01/LeetCode/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -972,6 +974,7 @@
 | [0410-split-array-largest-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/HeckerSV01/LeetCode/tree/master/0502-ipo) |
+| [0611-valid-triangle-number](https://github.com/HeckerSV01/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/HeckerSV01/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HeckerSV01/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/HeckerSV01/LeetCode/tree/master/0763-partition-labels) |
@@ -1056,6 +1059,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/HeckerSV01/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/HeckerSV01/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/HeckerSV01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HeckerSV01/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -1367,6 +1371,7 @@
 | [0502-ipo](https://github.com/HeckerSV01/LeetCode/tree/master/0502-ipo) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/HeckerSV01/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/HeckerSV01/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0611-valid-triangle-number](https://github.com/HeckerSV01/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/HeckerSV01/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/HeckerSV01/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/HeckerSV01/LeetCode/tree/master/0720-longest-word-in-dictionary) |
