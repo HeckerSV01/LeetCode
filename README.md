@@ -601,6 +601,7 @@
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1872-stone-game-viii](https://github.com/HeckerSV01/LeetCode/tree/master/1872-stone-game-viii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HeckerSV01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/HeckerSV01/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-find-a-peak-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/HeckerSV01/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -1012,6 +1013,7 @@
 | [1792-maximum-average-pass-ratio](https://github.com/HeckerSV01/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/HeckerSV01/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/HeckerSV01/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HeckerSV01/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HeckerSV01/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
