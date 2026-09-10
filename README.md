@@ -671,6 +671,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HeckerSV01/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/HeckerSV01/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/HeckerSV01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/HeckerSV01/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -1033,6 +1034,7 @@
 | [2405-optimal-partition-of-string](https://github.com/HeckerSV01/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/HeckerSV01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/HeckerSV01/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HeckerSV01/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1096,6 +1098,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/HeckerSV01/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/HeckerSV01/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeckerSV01/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/HeckerSV01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/HeckerSV01/LeetCode/tree/master/2540-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3488-closest-equal-element-queries](https://github.com/HeckerSV01/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -1437,6 +1440,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeckerSV01/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HeckerSV01/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HeckerSV01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/HeckerSV01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HeckerSV01/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
