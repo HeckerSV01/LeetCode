@@ -76,6 +76,7 @@
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/HeckerSV01/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/HeckerSV01/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/HeckerSV01/LeetCode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2383-add-two-integers](https://github.com/HeckerSV01/LeetCode/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -656,6 +657,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/HeckerSV01/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/HeckerSV01/LeetCode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2378-sender-with-largest-word-count](https://github.com/HeckerSV01/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2388-replace-elements-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2388-replace-elements-in-an-array) |
@@ -1031,6 +1033,7 @@
 | [2182-construct-string-with-repeat-limit](https://github.com/HeckerSV01/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2285-maximum-total-importance-of-roads](https://github.com/HeckerSV01/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/HeckerSV01/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/HeckerSV01/LeetCode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HeckerSV01/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2405-optimal-partition-of-string](https://github.com/HeckerSV01/LeetCode/tree/master/2405-optimal-partition-of-string) |
@@ -1099,6 +1102,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HeckerSV01/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/HeckerSV01/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/HeckerSV01/LeetCode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/HeckerSV01/LeetCode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeckerSV01/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/HeckerSV01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/HeckerSV01/LeetCode/tree/master/2540-minimum-common-value) |
