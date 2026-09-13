@@ -476,6 +476,7 @@
 | [0825-max-increase-to-keep-city-skyline](https://github.com/HeckerSV01/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0829-subdomain-visit-count](https://github.com/HeckerSV01/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0835-linked-list-components](https://github.com/HeckerSV01/LeetCode/tree/master/0835-linked-list-components) |
+| [0835-image-overlap](https://github.com/HeckerSV01/LeetCode/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/HeckerSV01/LeetCode/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -1172,6 +1173,7 @@
 | [0773-sliding-puzzle](https://github.com/HeckerSV01/LeetCode/tree/master/0773-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/HeckerSV01/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/HeckerSV01/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0835-image-overlap](https://github.com/HeckerSV01/LeetCode/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/HeckerSV01/LeetCode/tree/master/0854-making-a-large-island) |
 | [0861-score-after-flipping-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0931-minimum-falling-path-sum) |
