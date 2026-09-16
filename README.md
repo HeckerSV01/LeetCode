@@ -58,6 +58,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HeckerSV01/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/HeckerSV01/LeetCode/tree/master/1563-stone-game-v) |
 | [1585-the-kth-factor-of-n](https://github.com/HeckerSV01/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HeckerSV01/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1635-number-of-good-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1641-count-sorted-vowel-strings](https://github.com/HeckerSV01/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1642-water-bottles](https://github.com/HeckerSV01/LeetCode/tree/master/1642-water-bottles) |
@@ -875,6 +876,7 @@
 | [1563-stone-game-v](https://github.com/HeckerSV01/LeetCode/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/HeckerSV01/LeetCode/tree/master/1575-count-all-possible-routes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HeckerSV01/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HeckerSV01/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1641-count-sorted-vowel-strings](https://github.com/HeckerSV01/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -1816,6 +1818,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/HeckerSV01/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HeckerSV01/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HeckerSV01/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/HeckerSV01/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/HeckerSV01/LeetCode/tree/master/1872-stone-game-viii) |
@@ -2590,6 +2593,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/HeckerSV01/LeetCode/tree/master/0062-unique-paths) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/HeckerSV01/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HeckerSV01/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/HeckerSV01/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [2063-vowels-of-all-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
