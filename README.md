@@ -277,6 +277,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HeckerSV01/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/HeckerSV01/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/HeckerSV01/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/HeckerSV01/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -1025,6 +1026,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HeckerSV01/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/HeckerSV01/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/HeckerSV01/LeetCode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/HeckerSV01/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
