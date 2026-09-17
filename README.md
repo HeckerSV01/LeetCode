@@ -652,6 +652,7 @@
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/HeckerSV01/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HeckerSV01/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/HeckerSV01/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HeckerSV01/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2285-design-bitset](https://github.com/HeckerSV01/LeetCode/tree/master/2285-design-bitset) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/HeckerSV01/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/HeckerSV01/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -1041,6 +1042,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HeckerSV01/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/HeckerSV01/LeetCode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2182-construct-string-with-repeat-limit](https://github.com/HeckerSV01/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HeckerSV01/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/HeckerSV01/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/HeckerSV01/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/HeckerSV01/LeetCode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -1452,6 +1454,7 @@
 | [2126-destroying-asteroids](https://github.com/HeckerSV01/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HeckerSV01/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/HeckerSV01/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HeckerSV01/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/HeckerSV01/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2285-maximum-total-importance-of-roads](https://github.com/HeckerSV01/LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/HeckerSV01/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
