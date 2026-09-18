@@ -272,6 +272,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HeckerSV01/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/HeckerSV01/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-design-underground-system](https://github.com/HeckerSV01/LeetCode/tree/master/1512-design-underground-system) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/HeckerSV01/LeetCode/tree/master/1529-minimum-suffix-flips) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/HeckerSV01/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HeckerSV01/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -1020,6 +1021,7 @@
 | [1433-check-if-a-string-can-break-another-string](https://github.com/HeckerSV01/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1448-maximum-69-number](https://github.com/HeckerSV01/LeetCode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/HeckerSV01/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HeckerSV01/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1529-minimum-suffix-flips](https://github.com/HeckerSV01/LeetCode/tree/master/1529-minimum-suffix-flips) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -1441,6 +1443,7 @@
 | [1436-get-watched-videos-by-your-friends](https://github.com/HeckerSV01/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1464-reduce-array-size-to-the-half](https://github.com/HeckerSV01/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/HeckerSV01/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/HeckerSV01/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HeckerSV01/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -1713,6 +1716,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/HeckerSV01/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-design-underground-system](https://github.com/HeckerSV01/LeetCode/tree/master/1512-design-underground-system) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/HeckerSV01/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
