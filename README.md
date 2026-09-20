@@ -328,6 +328,7 @@
 | [3379-score-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/3379-score-of-a-string) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/HeckerSV01/LeetCode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3396-valid-word](https://github.com/HeckerSV01/LeetCode/tree/master/3396-valid-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HeckerSV01/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3567-convert-date-to-binary](https://github.com/HeckerSV01/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3612-process-string-with-special-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -1387,6 +1388,7 @@
 | [3336-water-bottles-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/HeckerSV01/LeetCode/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HeckerSV01/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3498-reverse-degree-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
