@@ -37,6 +37,7 @@
 | [0537-complex-number-multiplication](https://github.com/HeckerSV01/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/HeckerSV01/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/HeckerSV01/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/HeckerSV01/LeetCode/tree/master/0640-solve-the-equation) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HeckerSV01/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/HeckerSV01/LeetCode/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/HeckerSV01/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -236,6 +237,7 @@
 | [0539-minimum-time-difference](https://github.com/HeckerSV01/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/HeckerSV01/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/HeckerSV01/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/HeckerSV01/LeetCode/tree/master/0640-solve-the-equation) |
 | [0648-replace-words](https://github.com/HeckerSV01/LeetCode/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0676-implement-magic-dictionary](https://github.com/HeckerSV01/LeetCode/tree/master/0676-implement-magic-dictionary) |
@@ -1360,6 +1362,7 @@
 | [0498-diagonal-traverse](https://github.com/HeckerSV01/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/HeckerSV01/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/HeckerSV01/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/HeckerSV01/LeetCode/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/HeckerSV01/LeetCode/tree/master/0735-asteroid-collision) |
 | [1310-watering-plants](https://github.com/HeckerSV01/LeetCode/tree/master/1310-watering-plants) |
@@ -2889,4 +2892,8 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/HeckerSV01/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/HeckerSV01/LeetCode/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
