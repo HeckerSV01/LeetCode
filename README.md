@@ -502,6 +502,7 @@
 | [0860-design-circular-queue](https://github.com/HeckerSV01/LeetCode/tree/master/0860-design-circular-queue) |
 | [0860-lemonade-change](https://github.com/HeckerSV01/LeetCode/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [0874-walking-robot-simulation](https://github.com/HeckerSV01/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/HeckerSV01/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/HeckerSV01/LeetCode/tree/master/0877-stone-game) |
 | [0881-loud-and-rich](https://github.com/HeckerSV01/LeetCode/tree/master/0881-loud-and-rich) |
@@ -1368,6 +1369,7 @@
 | [0657-robot-return-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/HeckerSV01/LeetCode/tree/master/0735-asteroid-collision) |
 | [0749-contain-virus](https://github.com/HeckerSV01/LeetCode/tree/master/0749-contain-virus) |
+| [0874-walking-robot-simulation](https://github.com/HeckerSV01/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1310-watering-plants](https://github.com/HeckerSV01/LeetCode/tree/master/1310-watering-plants) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -1694,6 +1696,7 @@
 | [0835-linked-list-components](https://github.com/HeckerSV01/LeetCode/tree/master/0835-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/HeckerSV01/LeetCode/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HeckerSV01/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/HeckerSV01/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HeckerSV01/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/HeckerSV01/LeetCode/tree/master/0904-fruit-into-baskets) |
