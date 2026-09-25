@@ -515,6 +515,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/HeckerSV01/LeetCode/tree/master/0934-shortest-bridge) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/HeckerSV01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0946-validate-stack-sequences](https://github.com/HeckerSV01/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0947-online-election](https://github.com/HeckerSV01/LeetCode/tree/master/0947-online-election) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 | [0960-minimize-malware-spread](https://github.com/HeckerSV01/LeetCode/tree/master/0960-minimize-malware-spread) |
@@ -947,6 +948,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HeckerSV01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0931-maximum-frequency-stack](https://github.com/HeckerSV01/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/HeckerSV01/LeetCode/tree/master/0937-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/HeckerSV01/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HeckerSV01/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1373,6 +1375,7 @@
 | [0749-contain-virus](https://github.com/HeckerSV01/LeetCode/tree/master/0749-contain-virus) |
 | [0874-walking-robot-simulation](https://github.com/HeckerSV01/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0885-spiral-matrix-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0885-spiral-matrix-iii) |
+| [0946-validate-stack-sequences](https://github.com/HeckerSV01/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1310-watering-plants](https://github.com/HeckerSV01/LeetCode/tree/master/1310-watering-plants) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
