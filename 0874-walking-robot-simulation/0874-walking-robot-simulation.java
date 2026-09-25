@@ -11,7 +11,7 @@ class Solution {
         int y=0;
         HashSet<String> obs=new HashSet<>();
         for(int[] o:obstacles){
-            obs.add(String.valueOf(o[0])+","+String.valueOf(o[1]));
+            obs.add(o[0]+","+o[1]);
         }
         for(Integer i:commands){
             if(i==-2){
@@ -39,7 +39,7 @@ class Solution {
                 for(int j=0;j<i;j++){
                     x+=dirn[0];
                     y+=dirn[1];
-                    if(obs.contains(String.valueOf(x)+","+String.valueOf(y))){
+                    if(obs.contains(x+","+y)){
                         x-=dirn[0];
                         y-=dirn[1];
                         break;
