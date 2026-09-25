@@ -506,6 +506,7 @@
 | [0875-koko-eating-bananas](https://github.com/HeckerSV01/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/HeckerSV01/LeetCode/tree/master/0877-stone-game) |
 | [0881-loud-and-rich](https://github.com/HeckerSV01/LeetCode/tree/master/0881-loud-and-rich) |
+| [0885-spiral-matrix-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0904-fruit-into-baskets](https://github.com/HeckerSV01/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/HeckerSV01/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0916-word-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0916-word-subsets) |
@@ -1208,6 +1209,7 @@
 | [0835-image-overlap](https://github.com/HeckerSV01/LeetCode/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/HeckerSV01/LeetCode/tree/master/0854-making-a-large-island) |
 | [0861-score-after-flipping-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0931-minimum-falling-path-sum](https://github.com/HeckerSV01/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/HeckerSV01/LeetCode/tree/master/0934-shortest-bridge) |
 | [0980-unique-paths-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0980-unique-paths-iii) |
@@ -1370,6 +1372,7 @@
 | [0735-asteroid-collision](https://github.com/HeckerSV01/LeetCode/tree/master/0735-asteroid-collision) |
 | [0749-contain-virus](https://github.com/HeckerSV01/LeetCode/tree/master/0749-contain-virus) |
 | [0874-walking-robot-simulation](https://github.com/HeckerSV01/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0885-spiral-matrix-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1310-watering-plants](https://github.com/HeckerSV01/LeetCode/tree/master/1310-watering-plants) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
