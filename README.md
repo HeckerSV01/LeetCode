@@ -524,6 +524,7 @@
 | [0969-pancake-sorting](https://github.com/HeckerSV01/LeetCode/tree/master/0969-pancake-sorting) |
 | [0980-unique-paths-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/HeckerSV01/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/HeckerSV01/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HeckerSV01/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HeckerSV01/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -1376,6 +1377,7 @@
 | [0874-walking-robot-simulation](https://github.com/HeckerSV01/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0885-spiral-matrix-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0946-validate-stack-sequences](https://github.com/HeckerSV01/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/HeckerSV01/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1310-watering-plants](https://github.com/HeckerSV01/LeetCode/tree/master/1310-watering-plants) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
