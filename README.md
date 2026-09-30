@@ -671,6 +671,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HeckerSV01/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/HeckerSV01/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HeckerSV01/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HeckerSV01/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/HeckerSV01/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HeckerSV01/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/HeckerSV01/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -910,6 +911,7 @@
 | [2063-vowels-of-all-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HeckerSV01/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2140-solving-questions-with-brainpower](https://github.com/HeckerSV01/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HeckerSV01/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2305-fair-distribution-of-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1248,6 +1250,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-count-sub-islands](https://github.com/HeckerSV01/LeetCode/tree/master/2035-count-sub-islands) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HeckerSV01/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HeckerSV01/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/HeckerSV01/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -2901,6 +2904,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HeckerSV01/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HeckerSV01/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HeckerSV01/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HeckerSV01/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hungarian Algorithm
 |  |
 | ------- |
