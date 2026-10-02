@@ -286,6 +286,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/HeckerSV01/LeetCode/tree/master/1529-minimum-suffix-flips) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/HeckerSV01/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/HeckerSV01/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HeckerSV01/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HeckerSV01/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1183,6 +1184,7 @@
 | [0390-elimination-game](https://github.com/HeckerSV01/LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/HeckerSV01/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/HeckerSV01/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HeckerSV01/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -1396,6 +1398,7 @@
 | [1310-watering-plants](https://github.com/HeckerSV01/LeetCode/tree/master/1310-watering-plants) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/HeckerSV01/LeetCode/tree/master/1409-queries-on-a-permutation-with-key) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/HeckerSV01/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/HeckerSV01/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/HeckerSV01/LeetCode/tree/master/1803-average-waiting-time) |
