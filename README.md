@@ -277,6 +277,7 @@
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HeckerSV01/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HeckerSV01/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HeckerSV01/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1324-print-words-vertically](https://github.com/HeckerSV01/LeetCode/tree/master/1324-print-words-vertically) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HeckerSV01/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/HeckerSV01/LeetCode/tree/master/1366-rank-teams-by-votes) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -574,6 +575,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/HeckerSV01/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/HeckerSV01/LeetCode/tree/master/1306-jump-game-iii) |
 | [1310-watering-plants](https://github.com/HeckerSV01/LeetCode/tree/master/1310-watering-plants) |
+| [1324-print-words-vertically](https://github.com/HeckerSV01/LeetCode/tree/master/1324-print-words-vertically) |
 | [1325-path-with-maximum-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1331-rank-transform-of-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/HeckerSV01/LeetCode/tree/master/1340-jump-game-v) |
@@ -1409,6 +1411,7 @@
 | [0985-sum-of-even-numbers-after-queries](https://github.com/HeckerSV01/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HeckerSV01/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1310-watering-plants](https://github.com/HeckerSV01/LeetCode/tree/master/1310-watering-plants) |
+| [1324-print-words-vertically](https://github.com/HeckerSV01/LeetCode/tree/master/1324-print-words-vertically) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/HeckerSV01/LeetCode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/HeckerSV01/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
