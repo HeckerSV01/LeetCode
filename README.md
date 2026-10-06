@@ -560,6 +560,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/HeckerSV01/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1219-path-with-maximum-gold](https://github.com/HeckerSV01/LeetCode/tree/master/1219-path-with-maximum-gold) |
+| [1222-queens-that-can-attack-the-king](https://github.com/HeckerSV01/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HeckerSV01/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1267-count-servers-that-communicate](https://github.com/HeckerSV01/LeetCode/tree/master/1267-count-servers-that-communicate) |
@@ -1242,6 +1243,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/HeckerSV01/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/HeckerSV01/LeetCode/tree/master/1219-path-with-maximum-gold) |
+| [1222-queens-that-can-attack-the-king](https://github.com/HeckerSV01/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1267-count-servers-that-communicate](https://github.com/HeckerSV01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/HeckerSV01/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -1400,6 +1402,7 @@
 | [0885-spiral-matrix-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0946-validate-stack-sequences](https://github.com/HeckerSV01/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/HeckerSV01/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1222-queens-that-can-attack-the-king](https://github.com/HeckerSV01/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1310-watering-plants](https://github.com/HeckerSV01/LeetCode/tree/master/1310-watering-plants) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/HeckerSV01/LeetCode/tree/master/1409-queries-on-a-permutation-with-key) |
