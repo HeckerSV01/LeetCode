@@ -313,6 +313,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HeckerSV01/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HeckerSV01/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2063-vowels-of-all-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/HeckerSV01/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2107-find-unique-binary-string](https://github.com/HeckerSV01/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
@@ -1428,6 +1429,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HeckerSV01/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/HeckerSV01/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/HeckerSV01/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/HeckerSV01/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HeckerSV01/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
