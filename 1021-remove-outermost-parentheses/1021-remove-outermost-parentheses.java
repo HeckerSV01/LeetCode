@@ -10,13 +10,13 @@ class Solution {
                 count--;
             }
             if(count==0){
-                list.add(s.substring(start,i+1));
+                list.add(new StringBuilder(s).substring(start,i+1).toString());
                 start=i+1;
             }
         }
         String res="";
         for(String st: list){
-            res+=st.substring(1,st.length()-1);
+            res+=new StringBuilder(st).substring(1,st.length()-1).toString();
         }
         return res;
     }
