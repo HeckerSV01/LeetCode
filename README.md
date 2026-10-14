@@ -2987,4 +2987,8 @@
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/HeckerSV01/LeetCode/tree/master/1409-queries-on-a-permutation-with-key) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HeckerSV01/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
