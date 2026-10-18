@@ -787,6 +787,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HeckerSV01/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HeckerSV01/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HeckerSV01/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3479-fruits-into-baskets-iii](https://github.com/HeckerSV01/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/HeckerSV01/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1181,6 +1182,7 @@
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/HeckerSV01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/HeckerSV01/LeetCode/tree/master/2540-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3479-fruits-into-baskets-iii](https://github.com/HeckerSV01/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/HeckerSV01/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HeckerSV01/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -2673,6 +2675,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/HeckerSV01/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/HeckerSV01/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/HeckerSV01/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [3479-fruits-into-baskets-iii](https://github.com/HeckerSV01/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3678-design-task-manager](https://github.com/HeckerSV01/LeetCode/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/HeckerSV01/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Binary Search Tree
@@ -2911,6 +2914,7 @@
 | [0307-range-sum-query-mutable](https://github.com/HeckerSV01/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1395-count-number-of-teams](https://github.com/HeckerSV01/LeetCode/tree/master/1395-count-number-of-teams) |
+| [3479-fruits-into-baskets-iii](https://github.com/HeckerSV01/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/HeckerSV01/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HeckerSV01/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Indexed Tree
