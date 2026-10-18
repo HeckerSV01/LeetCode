@@ -445,6 +445,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/HeckerSV01/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HeckerSV01/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/HeckerSV01/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HeckerSV01/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/HeckerSV01/LeetCode/tree/master/0312-burst-balloons) |
 | [0318-maximum-product-of-word-lengths](https://github.com/HeckerSV01/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -1325,6 +1326,7 @@
 | [0190-reverse-bits](https://github.com/HeckerSV01/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/HeckerSV01/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/HeckerSV01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0772-construct-quad-tree) |
@@ -2059,6 +2061,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/HeckerSV01/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HeckerSV01/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/HeckerSV01/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/HeckerSV01/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/HeckerSV01/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HeckerSV01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -2905,6 +2908,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/HeckerSV01/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1395-count-number-of-teams](https://github.com/HeckerSV01/LeetCode/tree/master/1395-count-number-of-teams) |
 | [3719-longest-balanced-subarray-i](https://github.com/HeckerSV01/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -2912,6 +2916,7 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/HeckerSV01/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HeckerSV01/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1395-count-number-of-teams](https://github.com/HeckerSV01/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/HeckerSV01/LeetCode/tree/master/1409-queries-on-a-permutation-with-key) |
@@ -2989,6 +2994,7 @@
 ## Sqrt Decomposition
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/HeckerSV01/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/HeckerSV01/LeetCode/tree/master/1409-queries-on-a-permutation-with-key) |
 ## Tournament Sort
 |  |
