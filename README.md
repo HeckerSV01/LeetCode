@@ -747,6 +747,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2679-sum-in-a-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HeckerSV01/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -1306,6 +1307,7 @@
 | [2596-check-knight-tour-configuration](https://github.com/HeckerSV01/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2679-sum-in-a-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HeckerSV01/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2801-difference-of-number-of-distinct-values-on-diagonals](https://github.com/HeckerSV01/LeetCode/tree/master/2801-difference-of-number-of-distinct-values-on-diagonals) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HeckerSV01/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1474,6 +1476,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2587-design-memory-allocator](https://github.com/HeckerSV01/LeetCode/tree/master/2587-design-memory-allocator) |
 | [2596-check-knight-tour-configuration](https://github.com/HeckerSV01/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+| [2679-sum-in-a-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2751-robot-collisions](https://github.com/HeckerSV01/LeetCode/tree/master/2751-robot-collisions) |
 | [2834-relocate-marbles](https://github.com/HeckerSV01/LeetCode/tree/master/2834-relocate-marbles) |
@@ -1576,6 +1579,7 @@
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HeckerSV01/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2679-sum-in-a-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2751-robot-collisions](https://github.com/HeckerSV01/LeetCode/tree/master/2751-robot-collisions) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HeckerSV01/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -1638,6 +1642,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HeckerSV01/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2603-reward-top-k-students](https://github.com/HeckerSV01/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/HeckerSV01/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2679-sum-in-a-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/2679-sum-in-a-matrix) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3386-find-edges-in-shortest-paths](https://github.com/HeckerSV01/LeetCode/tree/master/3386-find-edges-in-shortest-paths) |
