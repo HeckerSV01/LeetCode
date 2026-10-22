@@ -43,6 +43,7 @@
 | [0836-rectangle-overlap](https://github.com/HeckerSV01/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/HeckerSV01/LeetCode/tree/master/0877-stone-game) |
 | [0915-generate-random-point-in-a-circle](https://github.com/HeckerSV01/LeetCode/tree/master/0915-generate-random-point-in-a-circle) |
+| [1006-clumsy-factorial](https://github.com/HeckerSV01/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1013-fibonacci-number](https://github.com/HeckerSV01/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1140-stone-game-ii) |
@@ -992,6 +993,7 @@
 | [0931-maximum-frequency-stack](https://github.com/HeckerSV01/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/HeckerSV01/LeetCode/tree/master/0937-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/HeckerSV01/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [1006-clumsy-factorial](https://github.com/HeckerSV01/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1021-remove-outermost-parentheses](https://github.com/HeckerSV01/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -1437,6 +1439,7 @@
 | [0885-spiral-matrix-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0946-validate-stack-sequences](https://github.com/HeckerSV01/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/HeckerSV01/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1006-clumsy-factorial](https://github.com/HeckerSV01/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1222-queens-that-can-attack-the-king](https://github.com/HeckerSV01/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1310-watering-plants](https://github.com/HeckerSV01/LeetCode/tree/master/1310-watering-plants) |
 | [1324-print-words-vertically](https://github.com/HeckerSV01/LeetCode/tree/master/1324-print-words-vertically) |
