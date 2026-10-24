@@ -88,6 +88,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/HeckerSV01/LeetCode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2383-add-two-integers](https://github.com/HeckerSV01/LeetCode/tree/master/2383-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/HeckerSV01/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/HeckerSV01/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -331,6 +332,7 @@
 | [2389-design-a-text-editor](https://github.com/HeckerSV01/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/HeckerSV01/LeetCode/tree/master/2405-optimal-partition-of-string) |
+| [2409-count-days-spent-together](https://github.com/HeckerSV01/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2429-design-a-food-rating-system](https://github.com/HeckerSV01/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/HeckerSV01/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
