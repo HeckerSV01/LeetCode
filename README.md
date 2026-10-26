@@ -359,6 +359,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HeckerSV01/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3567-convert-date-to-binary](https://github.com/HeckerSV01/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3597-partition-string](https://github.com/HeckerSV01/LeetCode/tree/master/3597-partition-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/HeckerSV01/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3707-find-the-most-common-response](https://github.com/HeckerSV01/LeetCode/tree/master/3707-find-the-most-common-response) |
@@ -1500,6 +1501,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HeckerSV01/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3498-reverse-degree-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3597-partition-string](https://github.com/HeckerSV01/LeetCode/tree/master/3597-partition-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/HeckerSV01/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/HeckerSV01/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -1922,6 +1924,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HeckerSV01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3597-partition-string](https://github.com/HeckerSV01/LeetCode/tree/master/3597-partition-string) |
 | [3678-design-task-manager](https://github.com/HeckerSV01/LeetCode/tree/master/3678-design-task-manager) |
 | [3707-find-the-most-common-response](https://github.com/HeckerSV01/LeetCode/tree/master/3707-find-the-most-common-response) |
 | [3713-longest-balanced-substring-i](https://github.com/HeckerSV01/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -2643,6 +2646,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/HeckerSV01/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/HeckerSV01/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HeckerSV01/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3597-partition-string](https://github.com/HeckerSV01/LeetCode/tree/master/3597-partition-string) |
 ## Quickselect
 |  |
 | ------- |
