@@ -702,6 +702,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/HeckerSV01/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/HeckerSV01/LeetCode/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HeckerSV01/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2201-count-artifacts-that-can-be-extracted](https://github.com/HeckerSV01/LeetCode/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2206-detonate-the-maximum-bombs](https://github.com/HeckerSV01/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HeckerSV01/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/HeckerSV01/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -1475,6 +1476,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/HeckerSV01/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/HeckerSV01/LeetCode/tree/master/2169-simple-bank-system) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/HeckerSV01/LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2201-count-artifacts-that-can-be-extracted](https://github.com/HeckerSV01/LeetCode/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2211-count-collisions-on-a-road](https://github.com/HeckerSV01/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HeckerSV01/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HeckerSV01/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1870,6 +1872,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/HeckerSV01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2182-construct-string-with-repeat-limit](https://github.com/HeckerSV01/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HeckerSV01/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2201-count-artifacts-that-can-be-extracted](https://github.com/HeckerSV01/LeetCode/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/HeckerSV01/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/HeckerSV01/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/HeckerSV01/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
