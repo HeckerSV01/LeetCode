@@ -266,6 +266,7 @@
 | [0916-word-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0916-word-subsets) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HeckerSV01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0926-find-and-replace-pattern](https://github.com/HeckerSV01/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/HeckerSV01/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/HeckerSV01/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1021-remove-outermost-parentheses](https://github.com/HeckerSV01/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1023-time-based-key-value-store](https://github.com/HeckerSV01/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -2086,6 +2087,7 @@
 | [0784-letter-case-permutation](https://github.com/HeckerSV01/LeetCode/tree/master/0784-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0980-unique-paths-iii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/HeckerSV01/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1079-letter-tile-possibilities](https://github.com/HeckerSV01/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1219-path-with-maximum-gold](https://github.com/HeckerSV01/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/HeckerSV01/LeetCode/tree/master/1238-circular-permutation-in-binary-representation) |
@@ -2220,6 +2222,7 @@
 | [0919-complete-binary-tree-inserter](https://github.com/HeckerSV01/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0968-binary-tree-cameras](https://github.com/HeckerSV01/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [0975-range-sum-of-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/HeckerSV01/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -2332,6 +2335,7 @@
 | [0968-binary-tree-cameras](https://github.com/HeckerSV01/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [0975-range-sum-of-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HeckerSV01/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/HeckerSV01/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/HeckerSV01/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -2576,6 +2580,7 @@
 | [0919-complete-binary-tree-inserter](https://github.com/HeckerSV01/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0968-binary-tree-cameras](https://github.com/HeckerSV01/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [0975-range-sum-of-bst](https://github.com/HeckerSV01/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/HeckerSV01/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HeckerSV01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
