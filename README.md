@@ -59,6 +59,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HeckerSV01/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/HeckerSV01/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/HeckerSV01/LeetCode/tree/master/1448-maximum-69-number) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/HeckerSV01/LeetCode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/HeckerSV01/LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HeckerSV01/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/HeckerSV01/LeetCode/tree/master/1563-stone-game-v) |
@@ -618,6 +619,7 @@
 | [1463-cherry-pickup-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/HeckerSV01/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/HeckerSV01/LeetCode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HeckerSV01/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HeckerSV01/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -945,6 +947,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HeckerSV01/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HeckerSV01/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/HeckerSV01/LeetCode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HeckerSV01/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HeckerSV01/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/HeckerSV01/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -2093,6 +2096,7 @@
 | [1238-circular-permutation-in-binary-representation](https://github.com/HeckerSV01/LeetCode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HeckerSV01/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/HeckerSV01/LeetCode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/HeckerSV01/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1947-maximum-compatibility-score-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
@@ -2783,6 +2787,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/HeckerSV01/LeetCode/tree/master/0062-unique-paths) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/HeckerSV01/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/HeckerSV01/LeetCode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HeckerSV01/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/HeckerSV01/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [2063-vowels-of-all-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
@@ -3015,6 +3020,7 @@
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/HeckerSV01/LeetCode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 ## Union-Find
 |  |
 | ------- |
