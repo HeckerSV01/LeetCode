@@ -733,6 +733,7 @@
 | [2378-sender-with-largest-word-count](https://github.com/HeckerSV01/LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2388-replace-elements-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HeckerSV01/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2397-maximum-rows-covered-by-columns](https://github.com/HeckerSV01/LeetCode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2411-spiral-matrix-iv](https://github.com/HeckerSV01/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/HeckerSV01/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -1321,6 +1322,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/HeckerSV01/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HeckerSV01/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2397-maximum-rows-covered-by-columns](https://github.com/HeckerSV01/LeetCode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2411-spiral-matrix-iv](https://github.com/HeckerSV01/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HeckerSV01/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -1420,6 +1422,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/HeckerSV01/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
+| [2397-maximum-rows-covered-by-columns](https://github.com/HeckerSV01/LeetCode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/HeckerSV01/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -2108,6 +2111,7 @@
 | [2178-maximum-split-of-positive-even-integers](https://github.com/HeckerSV01/LeetCode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2305-fair-distribution-of-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HeckerSV01/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2397-maximum-rows-covered-by-columns](https://github.com/HeckerSV01/LeetCode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/HeckerSV01/LeetCode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HeckerSV01/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Design
@@ -2959,6 +2963,7 @@
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/HeckerSV01/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HeckerSV01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2397-maximum-rows-covered-by-columns](https://github.com/HeckerSV01/LeetCode/tree/master/2397-maximum-rows-covered-by-columns) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HeckerSV01/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HeckerSV01/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HeckerSV01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
