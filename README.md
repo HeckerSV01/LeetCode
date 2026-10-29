@@ -2089,6 +2089,7 @@
 | [0773-sliding-puzzle](https://github.com/HeckerSV01/LeetCode/tree/master/0773-sliding-puzzle) |
 | [0784-letter-case-permutation](https://github.com/HeckerSV01/LeetCode/tree/master/0784-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/HeckerSV01/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0980-unique-paths-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/HeckerSV01/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1079-letter-tile-possibilities](https://github.com/HeckerSV01/LeetCode/tree/master/1079-letter-tile-possibilities) |
@@ -2468,6 +2469,7 @@
 | [0934-shortest-bridge](https://github.com/HeckerSV01/LeetCode/tree/master/0934-shortest-bridge) |
 | [0960-minimize-malware-spread](https://github.com/HeckerSV01/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/HeckerSV01/LeetCode/tree/master/0964-minimize-malware-spread-ii) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/HeckerSV01/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/HeckerSV01/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/HeckerSV01/LeetCode/tree/master/1073-number-of-enclaves) |
