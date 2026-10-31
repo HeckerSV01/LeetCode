@@ -70,6 +70,7 @@
 | [1642-water-bottles](https://github.com/HeckerSV01/LeetCode/tree/master/1642-water-bottles) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/HeckerSV01/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
+| [1799-maximize-score-after-n-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/HeckerSV01/LeetCode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1860-incremental-memory-leak](https://github.com/HeckerSV01/LeetCode/tree/master/1860-incremental-memory-leak) |
 | [1872-stone-game-viii](https://github.com/HeckerSV01/LeetCode/tree/master/1872-stone-game-viii) |
@@ -660,6 +661,7 @@
 | [1767-design-front-middle-back-queue](https://github.com/HeckerSV01/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1791-richest-customer-wealth](https://github.com/HeckerSV01/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1792-maximum-average-pass-ratio](https://github.com/HeckerSV01/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
+| [1799-maximize-score-after-n-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
 | [1803-average-waiting-time](https://github.com/HeckerSV01/LeetCode/tree/master/1803-average-waiting-time) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/HeckerSV01/LeetCode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -960,6 +962,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1641-count-sorted-vowel-strings](https://github.com/HeckerSV01/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1799-maximize-score-after-n-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
 | [1872-stone-game-viii](https://github.com/HeckerSV01/LeetCode/tree/master/1872-stone-game-viii) |
 | [1947-maximum-compatibility-score-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
@@ -1419,6 +1422,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/HeckerSV01/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1799-maximize-score-after-n-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
 | [1947-maximum-compatibility-score-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/HeckerSV01/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -1964,6 +1968,7 @@
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/HeckerSV01/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [1799-maximize-score-after-n-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HeckerSV01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/HeckerSV01/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -2105,6 +2110,7 @@
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/HeckerSV01/LeetCode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HeckerSV01/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/HeckerSV01/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1799-maximize-score-after-n-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
 | [1947-maximum-compatibility-score-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/HeckerSV01/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -2956,6 +2962,7 @@
 | [0526-beautiful-arrangement](https://github.com/HeckerSV01/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/HeckerSV01/LeetCode/tree/master/0638-shopping-offers) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1799-maximize-score-after-n-operations](https://github.com/HeckerSV01/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
 | [1947-maximum-compatibility-score-sum](https://github.com/HeckerSV01/LeetCode/tree/master/1947-maximum-compatibility-score-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/HeckerSV01/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 ## Enumeration
